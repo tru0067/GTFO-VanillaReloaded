@@ -95,6 +95,13 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Sniper
 
+*Sniper is an incredibly polarizing weapon. In the hands of an experienced player, it can trivialize the threat posed by larger enemy varieties, but it also disproportionally suffers from low player accuracy and from level design that does not favor it. We feel that Sniper is very close to being in its best possible state, however, for the enormous amount of work that the weapon is capable of, we feel that its ammo reserves can sometimes be a bit too forgiving.*
+
+-   Bullet cost: 23.0 -> 24.0
+    -   Rounds/refill: 3.91 -> 3.75
+    -   Starting ammo: 6.52 -> 6.25
+    -   Maximum ammo (excluding clip): 10 -> 9
+
 ### HEL Rifle
 
 ### Bio Tracker
