@@ -28,6 +28,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Pistol
 
+*The Pistol is already a well-rounded weapon with a solid identity. The only change we have made is reverting its range back to its earlier state.*
+
+-   Falloff start: 6.0 -> 8.0
+
 ### HEL Revolver
 
 *HEL Revolver was definitely overperforming at high level play. The main attraction of this weapon was its insane uptime with reload cancel, incredibly good ammo efficiency and an incredibly fast time to kill, to the point that the overpenetrating qualities just became icing on the cake. We've leaned in to the overpenetrating qualities, while toning down some other aspects of the weapon.*
