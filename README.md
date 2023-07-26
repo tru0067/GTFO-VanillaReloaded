@@ -67,6 +67,13 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Rifle
 
+*We found that after increasing the range of the Pistol, the Rifle struggled to have a unique identity. While being a longer range variant of the Pistol was certainly a valuable option, we decided to give the weapon a very unique place. The Rifle will now be able to two-shot strikers at extremely close range, allowing for an extremely effective and efficient but risky playstyle. We've additionally changed its stagger multiplier to be more in line with other weapons.*
+
+-   Damage: 5.08 -> 5.66
+-   Falloff start: 25.0 -> 5.0
+-   Falloff end: 100 -> 90
+-   Stagger multiplier: 1.75 -> 1.25
+
 ### Sawed-Off Shotgun
 
 ### HEL Shotgun
