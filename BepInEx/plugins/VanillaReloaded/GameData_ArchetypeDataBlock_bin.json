@@ -1412,7 +1412,7 @@
       "FireMode": 1,
       "RecoilDataID": 24,
       "DamageBoosterEffect": 61,
-      "Damage": 19.0,
+      "Damage": 20.01,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,

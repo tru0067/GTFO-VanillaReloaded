@@ -94,6 +94,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Burst Cannon
 
+*Upon its initial reintroduction to the game, the Burst Cannon was clearly unbalanced, since then, it received three nerfs - to its damage, its ammo efficiency and its recoil - and has since been slightly underperforming. We decided to revert its damage nerf, meaning that Burst Cannon will return to being an incredibly potent weapon, but will now have clear downsides in both its ammo economy and its handling.*
+
+-   Damage: 19.0 -> 20.01
+
 ### HEL Gun
 
 ### High Caliber Pistol
