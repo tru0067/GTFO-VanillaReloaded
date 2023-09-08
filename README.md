@@ -104,6 +104,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### HEL Gun
 
+*The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies.*
+
+-   Damage: 16.25 -> 14.21
+
 ### High Caliber Pistol
 
 ### Precision Rifle
