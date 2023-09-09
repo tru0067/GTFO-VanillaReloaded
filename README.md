@@ -54,8 +54,6 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### PDW
 
-### Heavy SMG
-
 ### Carbine
 
 ### DMR
@@ -80,6 +78,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 ### HEL Shotgun
 
 ### Heavy Assault Rifle
+
+### Heavy SMG
+
+Moved to Special Weapon category.
 
 ### Shotgun
 
