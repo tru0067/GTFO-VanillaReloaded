@@ -88,9 +88,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Revolver
 
-*Revolver is a solid option into smaller enemies but disproportionally suffers into larger enemy variants. We've swapped its damage with that of HEL Gun in order to improve its matchup into these larger enemies.*
+*Revolver is a solid option into smaller enemies but disproportionally suffers into larger enemy variants. We've swapped its damage with that of HEL Gun in order to improve its matchup into these larger enemies. We've additionally given it a longer range flashlight, as it previously had the shortest possible flashlight range, despite being a medium range precision based weapon.*
 
 -   Damage: 14.21 -> 16.25
+-   Flashlight: Short range -> Medium range #1 (see [the wiki](https://gtfo.fandom.com/wiki/Flashlight) for more on flashlights)
 
 ### Machinegun (Arbalist)
 
