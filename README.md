@@ -12,7 +12,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Spear
 
-*Spear felt to be the most underperforming of melee weapons. Its high damage role was noticeably overshadowed by the more manueverable Sledgehammer. We have substantially reduced Spear's stamina usage, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it some minor buffs to its damage output, so that it has meaningful compensation for its lack of maneuverability.*
+*Spear felt to be the most underperforming of melee weapons. Its high damage role was noticeably overshadowed by the more manueverable Sledgehammer. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it some minor buffs to its damage output, so that it has meaningful compensation for its lack of maneuverability.*
 
 Breakpoints affected: Spear will now be able to guarantee a light stagger on strikers with a light attack. Spear will now be able to kill a shooter with a light attack to the occiput.
 
@@ -25,6 +25,7 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
     -   Light attack no longer resets resting timer while out of combat
     -   Shove no longer resets resting timer in combat
     -   Shove no longer resets resting timer out of combat
+-   Max damage charge time: 1.7 -> 1.5
 
 ### Pistol
 
