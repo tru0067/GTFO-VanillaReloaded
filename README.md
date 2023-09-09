@@ -4,7 +4,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ## Changes
 
-### Hammer
+### Sledgehammer
 
 ### Knife
 
@@ -12,7 +12,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Spear
 
-*Spear felt to be the most underperforming of melee weapons. Its high damage role was noticeably overshadowed by the more manueverable Hammer. We have substantially reduced Spear's stamina usage, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it some minor buffs to its damage output, so that it has meaningful compensation for its lack of maneuverability.*
+*Spear felt to be the most underperforming of melee weapons. Its high damage role was noticeably overshadowed by the more manueverable Sledgehammer. We have substantially reduced Spear's stamina usage, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it some minor buffs to its damage output, so that it has meaningful compensation for its lack of maneuverability.*
 
 Breakpoints affected: Spear will now be able to guarantee a light stagger on strikers with a light attack. Spear will now be able to kill a shooter with a light attack to the occiput.
 
