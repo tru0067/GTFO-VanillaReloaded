@@ -127,6 +127,13 @@ Moved to Special Weapon category.
 
 ### HEL Rifle
 
+*With such a high amount of potential piercing, the HEL Rifle is able to achieve absurd efficiencies. We've toned down its ammo statistics to be more reasonable.*
+
+-   Bullet cost: 10.0 -> 11.25
+    -   Rounds/refill: 9.0 -> 8.0
+    -   Starting ammo: 15.0 -> 13.33
+    -   Maximum ammo (excluding clip): 23 -> 20
+
 ### Bio Tracker
 
 ### C-Foam Launcher
