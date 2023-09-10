@@ -7,7 +7,7 @@
       "ChargedAttackDamage": 20.0,
       "LightAttackDamage": 3.0,
       "LightStaggerMulti": 3.0,
-      "ChargedStaggerMulti": 5.0,
+      "ChargedStaggerMulti": 1.5,
       "LightPrecisionMulti": 1.0,
       "ChargedPrecisionMulti": 1.0,
       "LightEnvironmentMulti": 3.0,

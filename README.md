@@ -6,6 +6,10 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Sledgehammer
 
+*The Sledgehammer is widely considered to be the most powerful melee weapon by a significant margin. Notably, with a fully charged hit, it is capable of outputting truly ridiculous amounts of stagger damage, allowing it to stagger chain mothers, a mini-boss level enemy. We've toned down its charged stagger multiplier, so that giants will require a limb-break in order to stagger, and mini-boss enemies will no longer be consistently staggered.*
+
+-   Charged stagger multiplier: 5 -> 1.5
+
 ### Knife
 
 ### Bat
