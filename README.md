@@ -79,6 +79,10 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 
 ### Sawed-Off Shotgun
 
+*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its tiny clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. As such, we've lowered its reload slightly to improve its uptime, which will help players be able to more quickly defend themselves after emptying its clip.*
+
+-   Reload time: 1.8 -> 1.6
+
 ### HEL Shotgun
 
 ### Heavy Assault Rifle
