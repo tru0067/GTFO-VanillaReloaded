@@ -469,8 +469,8 @@
     },
     {
       "power": {
-        "Min": 0.6,
-        "Max": 1.2
+        "Min": 0.45,
+        "Max": 0.75
       },
       "spring": 2.0,
       "dampening": 20.0,

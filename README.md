@@ -105,7 +105,9 @@ Moved to Special Weapon category.
 *Upon its initial reintroduction to the game, the Burst Cannon was clearly unbalanced, since then, it has received two nerfs - to its ammo efficiency and its recoil - and one buff - to its damage. We have decided to revert its damage buff and slightly tone down the increased recoil. With these changes, Burst Cannon will continue to be an incredibly potent weapon, while keeping clear downsides in both its ammo economy and its handling, as well as returning to requiring substantial follow-up for efficient kills on giants.*
 
 -   Damage: 22.0 -> 20.01
--   TODO: Reduced recoil
+-   Reduced recoil
+    -   Minimum power: 0.6 -> 0.45 (pre-nerf was 0.2)
+    -   Maximum power: 1.2 -> 0.75 (pre-nerf was 0.4)
 
 ### HEL Gun
 
