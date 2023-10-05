@@ -535,7 +535,7 @@
     },
     {
       "HoldToChargeTime": 0.2,
-      "MaxDamageChargeTime": 1.5,
+      "MaxDamageChargeTime": 1.7,
       "AutoAttackTime": 4.5,
       "AutoAttackWarningTime": 4.0,
       "FPIdleAnim": {

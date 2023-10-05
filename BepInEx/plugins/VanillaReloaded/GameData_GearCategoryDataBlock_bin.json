@@ -99,7 +99,7 @@
     {
       "PublicName": 0,
       "Description": 0,
-      "BaseItem": 109,
+      "BaseItem": 108,
       "HUDIcon": "",
       "IconRotationOffset": 0.0,
       "IconZoomOffset": 0.0,
@@ -199,25 +199,6 @@
       "name": "DMR",
       "internalEnabled": true,
       "persistentID": 4
-    },
-    {
-      "PublicName": 0,
-      "Description": 0,
-      "BaseItem": 109,
-      "HUDIcon": "",
-      "IconRotationOffset": 0.0,
-      "IconZoomOffset": 0.0,
-      "FPSArmPoseName": "",
-      "ThirdPersonFullbodyMovement": 0,
-      "SemiArchetype": 17,
-      "BurstArchetype": 18,
-      "AutoArchetype": 19,
-      "SemiBurstArchetype": 28,
-      "MeleeArchetype": 0,
-      "PartAlignPriority": [],
-      "name": "SMG_Special",
-      "internalEnabled": true,
-      "persistentID": 24
     },
     {
       "PublicName": 0,
