@@ -8,7 +8,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 *The Sledgehammer is widely considered to be the most powerful melee weapon by a significant margin. Notably, with a fully charged hit, it is capable of outputting truly ridiculous amounts of stagger damage, allowing it to stagger chain mothers, a mini-boss level enemy. We've toned down its charged stagger multiplier, so that giants will require a limb-break in order to stagger, and mini-boss enemies will no longer be consistently staggered.*
 
--   Charged stagger multiplier: 5 -> 1.5
+-   Charged stagger multiplier: 5.0 -> 1.5
 
 ### Knife
 
@@ -16,26 +16,17 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Spear
 
-*Spear felt to be the most underperforming of melee weapons. Its high damage role was noticeably overshadowed by the more manueverable Sledgehammer. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it some minor buffs to its damage output, so that it has meaningful compensation for its lack of maneuverability.*
+*While the recent buffs worked wonders for Spear's usability, Spear still felt to be the most underperforming of melee weapons. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it a minor buff to its light attack damage, allowing it to hit some important breakpoints.*
 
-Breakpoints affected: Spear will now be able to guarantee a light stagger on strikers with a light attack. Spear will now be able to kill a shooter with a light attack to the occiput.
+Breakpoints affected: Spear will now be able to kill a striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to guarantee a light stagger on strikers with a light attack to the body. Spear will now be able to kill a shooter with a light attack to the occiput.
 
--   Light attack damage: 2.0 -> 3.0
--   Charged precision multiplier: 1.3 -> 1.5
--   Light environment multiplier: 1.0 -> 1.5
--   Charged environment multiplier: 1.0 -> 2.0
+-   Light attack damage: 2.0 -> 2.5
 -   Charged stamina cost: 5% -> 0%
--   Resting timer resets changed to be in line with all other melee weapons
-    -   Light attack no longer resets resting timer while out of combat
-    -   Shove no longer resets resting timer in combat
-    -   Shove no longer resets resting timer out of combat
 -   Max damage charge time: 1.7 -> 1.5
 
 ### Pistol
 
-*The Pistol is already a well-rounded weapon with a solid identity. The only change we have made is reverting its range back to its earlier state.*
-
--   Falloff start: 6.0 -> 8.0
+*The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on strikers, but the recent patches have already addressed this.*
 
 ### HEL Revolver
 
@@ -73,15 +64,14 @@ Breakpoints affected: Spear will now be able to guarantee a light stagger on str
 *We found that after increasing the range of the Pistol, the Rifle struggled to have a unique identity. While being a longer range variant of the Pistol was certainly a valuable option, we decided to give the weapon a very unique place. The Rifle will now be able to two-shot strikers at extremely close range, allowing for an extremely effective and efficient but risky playstyle. We've additionally changed its stagger multiplier to be more in line with other weapons.*
 
 -   Damage: 5.08 -> 5.66
--   Falloff start: 25.0 -> 5.0
--   Falloff end: 100 -> 90
+-   Falloff start: 22.0 -> 6.0
+-   Falloff end: 80 -> 90
 -   Stagger multiplier: 1.75 -> 1.25
+-   Clipsize: 14 -> 16
 
 ### Sawed-Off Shotgun
 
-*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its tiny clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. As such, we've lowered its reload slightly to improve its uptime, which will help players be able to more quickly defend themselves after emptying its clip.*
-
--   Reload time: 1.8 -> 1.6
+*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its tiny clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. However, the recent patches have already done a good job of improving its consistency and uptime and as a result we have made no further changes.*
 
 ### HEL Shotgun
 
@@ -94,6 +84,8 @@ Moved to Special Weapon category.
 ### Shotgun
 
 ### Combat Shotgun
+
+### Scattergun
 
 ### Choke Mod Shotgun
 
@@ -110,15 +102,17 @@ Moved to Special Weapon category.
 
 ### Burst Cannon
 
-*Upon its initial reintroduction to the game, the Burst Cannon was clearly unbalanced, since then, it received three nerfs - to its damage, its ammo efficiency and its recoil - and has since been slightly underperforming. We decided to revert its damage nerf, meaning that Burst Cannon will return to being an incredibly potent weapon, but will now have clear downsides in both its ammo economy and its handling.*
+*Upon its initial reintroduction to the game, the Burst Cannon was clearly unbalanced, since then, it has received two nerfs - to its ammo efficiency and its recoil - and one buff - to its damage. We have decided to revert its damage buff and slightly tone down the increased recoil. With these changes, Burst Cannon will continue to be an incredibly potent weapon, while keeping clear downsides in both its ammo economy and its handling, as well as returning to requiring substantial follow-up for efficient kills on giants.*
 
--   Damage: 19.0 -> 20.01
+-   Damage: 22.0 -> 20.01
+-   TODO: Reduced recoil
 
 ### HEL Gun
 
-*The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies.*
+*The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies. Additionally, we've reverted some of the changes to its charge time to hopefully improve the responsiveness of the weapon.*
 
 -   Damage: 16.25 -> 14.21
+-   Charge time: 0.3 -> 0.15
 
 ### High Caliber Pistol
 

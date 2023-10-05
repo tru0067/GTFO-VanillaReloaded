@@ -153,10 +153,10 @@
       "FireMode": 0,
       "RecoilDataID": 12,
       "DamageBoosterEffect": 64,
-      "Damage": 5.08,
+      "Damage": 5.66,
       "DamageFalloff": {
-        "x": 22.0,
-        "y": 80.0,
+        "x": 6.0,
+        "y": 90.0,
         "normalized": {
           "x": 0.265156478,
           "y": 0.964205444,
@@ -166,9 +166,9 @@
         "magnitude": 82.96987,
         "sqrMagnitude": 6884.0
       },
-      "StaggerDamageMulti": 1.75,
+      "StaggerDamageMulti": 1.25,
       "PrecisionDamageMulti": 0.8667,
-      "DefaultClipSize": 14,
+      "DefaultClipSize": 16,
       "DefaultReloadTime": 1.9,
       "CostOfBullet": 3.8,
       "ShotDelay": 0.16,
@@ -1329,7 +1329,7 @@
       "FireMode": 0,
       "RecoilDataID": 4,
       "DamageBoosterEffect": 56,
-      "Damage": 16.25,
+      "Damage": 14.21,
       "DamageFalloff": {
         "x": 15.0,
         "y": 90.0,
@@ -1396,7 +1396,7 @@
       "ShotgunBulletCount": 0,
       "ShotgunConeSize": 0,
       "ShotgunBulletSpread": 0,
-      "SpecialChargetupTime": 0.3,
+      "SpecialChargetupTime": 0.15,
       "SpecialCooldownTime": 0.0,
       "SpecialSemiBurstCountTimeout": 0.0,
       "Sentry_StartFireDelay": 1.0,
@@ -1426,7 +1426,7 @@
       "FireMode": 1,
       "RecoilDataID": 24,
       "DamageBoosterEffect": 61,
-      "Damage": 22.0,
+      "Damage": 20.01,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,
@@ -2322,7 +2322,7 @@
       "PrecisionDamageMulti": 2.0025,
       "DefaultClipSize": 3,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 23.0,
+      "CostOfBullet": 24.0,
       "ShotDelay": 0.5,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -3275,7 +3275,7 @@
       "FireMode": 0,
       "RecoilDataID": 5,
       "DamageBoosterEffect": 59,
-      "Damage": 14.21,
+      "Damage": 16.25,
       "DamageFalloff": {
         "x": 12.0,
         "y": 80.0,
@@ -3393,9 +3393,9 @@
       },
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 0.7413,
-      "DefaultClipSize": 8,
+      "DefaultClipSize": 6,
       "DefaultReloadTime": 2.3,
-      "CostOfBullet": 5.0,
+      "CostOfBullet": 6.0,
       "ShotDelay": 0.2,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -3411,7 +3411,7 @@
         "sqrMagnitude": 20.0
       },
       "PiercingBullets": true,
-      "PiercingDamageCountLimit": 2,
+      "PiercingDamageCountLimit": 3,
       "HipFireSpread": 2.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.4,
@@ -3654,7 +3654,7 @@
       "PrecisionDamageMulti": 0.730897,
       "DefaultClipSize": 5,
       "DefaultReloadTime": 3.2,
-      "CostOfBullet": 10.0,
+      "CostOfBullet": 11.25,
       "ShotDelay": 0.1,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {

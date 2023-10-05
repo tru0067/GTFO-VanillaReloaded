@@ -7,7 +7,7 @@
       "ChargedAttackDamage": 20.0,
       "LightAttackDamage": 3.0,
       "LightStaggerMulti": 3.0,
-      "ChargedStaggerMulti": 5.0,
+      "ChargedStaggerMulti": 1.5,
       "LightPrecisionMulti": 1.0,
       "ChargedPrecisionMulti": 1.0,
       "LightEnvironmentMulti": 3.0,
@@ -101,7 +101,7 @@
       "PublicName": "Spear",
       "NoiseLevel": 0,
       "ChargedAttackDamage": 17.5,
-      "LightAttackDamage": 2.0,
+      "LightAttackDamage": 2.5,
       "LightStaggerMulti": 2.0,
       "ChargedStaggerMulti": 1.0,
       "LightPrecisionMulti": 1.3,
@@ -124,8 +124,8 @@
       "MeleeAnimationSet": 3,
       "MeleeSFXSet": 3,
       "ChargedAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.05,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.0,
+        "baseStaminaCostOutOfCombat": 0.0,
         "resetRestingTimerInCombat": true,
         "resetRestingTimerOutOfCombat": true
       },
