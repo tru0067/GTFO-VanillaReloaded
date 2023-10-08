@@ -85,6 +85,13 @@ Moved to Special Weapon category.
 
 ### Combat Shotgun
 
+*Combat shotgun has a dispropotionately large ammo pool, to the point that it dominates most of the efficiency stats, including those regarding boss killing - a role it is not at all specialized at. We've toned down its bullet cost so that it has a more reasonable ammo efficiency.*
+
+-   Bullet cost: 4.0 -> 4.5
+    -   Rounds/refill: 22.5 -> 20.0
+    -   Starting ammo: 37.50 -> 33.33
+    -   Maximum ammo (excluding clip): 57 -> 51
+
 ### Scattergun
 
 ### Choke Mod Shotgun
