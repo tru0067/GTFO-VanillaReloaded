@@ -82,6 +82,11 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### HEL Shotgun
 
+*While HEL Shotgun is certainly a powerful weapon, it is also incredibly unique, and so, while considering possible changes to it, we endevoured not to disrupt this weapon from its highly specialized niche. We opted to slightly reduce its damage and clipsize, in order to tone down its rather polarizing damage per clip, while keeping the other elements of the weapon intact.*
+
+-   Damage: 1.67 -> 1.56
+-   Clipsize: 14 -> 12
+
 ### Heavy Assault Rifle
 
 ### Heavy SMG
