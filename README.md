@@ -88,6 +88,16 @@ Breakpoints affected: Spear will now be able to kill a striker with a fully char
 
 Moved to Special Weapon category.
 
+*The Main Weapon category was incredibly over-filled with automatic weapons, so we have moved the Heavy SMG to the Special Weapon category. As a result, it has received a large overhaul to its stats.*
+
+-   Damage: 2.45 -> 3.25
+-   Clipsize: 33 -> 44
+-   Bullet cost: 1.5 -> 1.2
+    -   Rounds/refill: 60.00 -> 75.00
+    -   Starting ammo: 200.00 -> 125.00
+    -   Maximum ammo (excluding clip): 306 -> 191
+-   Shot delay: 0.078 -> 0.054
+
 ### Shotgun
 
 *Like the DMR, the Shotgun already has the stats to make it an extremely effective weapon, but it lacks the ammo to shine in most situations. We've given it slightly more ammo to hopefully make it a more viable pick in more scenarios.*
