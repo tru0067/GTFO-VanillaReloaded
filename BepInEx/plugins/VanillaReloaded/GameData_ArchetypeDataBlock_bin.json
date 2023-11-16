@@ -2804,10 +2804,10 @@
         "sqrMagnitude": 916.0
       },
       "StaggerDamageMulti": 2.0,
-      "PrecisionDamageMulti": 0.7333,
+      "PrecisionDamageMulti": 0.67,
       "DefaultClipSize": 2,
       "DefaultReloadTime": 2.66,
-      "CostOfBullet": 19.15,
+      "CostOfBullet": 20.0,
       "ShotDelay": 0.65,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {

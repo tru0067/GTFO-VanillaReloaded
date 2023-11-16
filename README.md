@@ -128,6 +128,14 @@ Moved to Special Weapon category.
 
 ### Scattergun
 
+*The Scattergun disproportionately trivializes most boss enemies. We've toned down its precision multiplier to reduce its damage in these encounters, and have also slightly increased its bullet cost so that it requires more thoughtful use.*
+
+-   Precision multiplier: 0.7333 -> 0.67
+-   Bullet cost: 19.15 -> 20.0
+    -   Rounds/refill: 4.70 -> 4.50
+    -   Starting ammo: 7.83 -> 7.50
+    -   Maximum ammo (excluding clip): 12 -> 11
+
 ### Choke Mod Shotgun
 
 ### Revolver
