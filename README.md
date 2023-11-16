@@ -90,6 +90,13 @@ Moved to Special Weapon category.
 
 ### Shotgun
 
+*Like the DMR, the Shotgun already has the stats to make it an extremely effective weapon, but it lacks the ammo to shine in most situations. We've given it slightly more ammo to hopefully make it a more viable pick in more scenarios.*
+
+-   Bullet cost: 11.0 -> 10.0
+    -   Rounds/refill: 8.18 -> 9.00
+    -   Starting ammo: 13.64 -> 15.00
+    -   Maximum ammo (excluding clip): 20 -> 23
+
 ### Combat Shotgun
 
 *Combat shotgun has a dispropotionately large ammo pool, to the point that it dominates most of the efficiency stats, including those regarding boss killing - a role it is not at all specialized at. We've toned down its bullet cost so that it has a more reasonable ammo efficiency.*
