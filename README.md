@@ -6,7 +6,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Sledgehammer
 
-*The Sledgehammer is widely considered to be the most powerful melee weapon by a significant margin. Notably, with a fully charged hit, it is capable of outputting truly ridiculous amounts of stagger damage, allowing it to stagger chain mothers, a mini-boss level enemy. We've toned down its charged stagger multiplier, so that giants will require a limb-break in order to stagger, and mini-boss enemies will no longer be consistently staggered.*
+*The Sledgehammer is widely considered to be the most powerful melee weapon by a significant margin. Notably, with a fully charged hit, it is capable of outputting truly ridiculous amounts of stagger damage, allowing it to stagger chain Mothers, a mini-boss level enemy. We've toned down its charged stagger multiplier, so that giants will require a limb-break in order to stagger, and mini-boss enemies will no longer be consistently staggered.*
 
 -   Charged stagger multiplier: 5.0 -> 1.5
 
@@ -18,7 +18,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 *While the recent buffs worked wonders for Spear's usability, Spear still felt to be the most underperforming of melee weapons. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it a minor buff to its light attack damage, allowing it to hit some important breakpoints.*
 
-Breakpoints affected: Spear will now be able to kill a striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to guarantee a light stagger on strikers with a light attack to the body. Spear will now be able to kill a shooter with a light attack to the occiput.
+Breakpoints affected: Spear will now be able to kill a Striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to guarantee a light stagger on Strikers with a light attack to the body. Spear will now be able to kill a Shooter with a light attack to the occiput.
 
 -   Light attack damage: 2.0 -> 2.5
 -   Charged stamina cost: 5% -> 0%
@@ -26,7 +26,7 @@ Breakpoints affected: Spear will now be able to kill a striker with a fully char
 
 ### Pistol
 
-*The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on strikers, but the recent patches have already addressed this.*
+*The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on Strikers, but the recent patches have already addressed this.*
 
 ### HEL Revolver
 
@@ -53,7 +53,7 @@ Breakpoints affected: Spear will now be able to kill a striker with a fully char
 
 ### DMR
 
-*The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
+*The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to Shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
 
 -   Bullet cost: 5.9 -> 5.2
     -   Rounds/refill: 15.25 -> 17.31
@@ -68,7 +68,7 @@ Breakpoints affected: Spear will now be able to kill a striker with a fully char
 
 ### Rifle
 
-*We found that after increasing the range of the Pistol, the Rifle struggled to have a unique identity. While being a longer range variant of the Pistol was certainly a valuable option, we decided to give the weapon a very unique place. The Rifle will now be able to two-shot strikers at extremely close range, allowing for an extremely effective and efficient but risky playstyle. We've additionally changed its stagger multiplier to be more in line with other weapons.*
+*We found that after increasing the range of the Pistol, the Rifle struggled to have a unique identity. While being a longer range variant of the Pistol was certainly a valuable option, we decided to give the weapon a very unique place. The Rifle will now be able to two-shot Strikers at extremely close range, allowing for an extremely effective and efficient but risky playstyle. We've additionally changed its stagger multiplier to be more in line with other weapons.*
 
 -   Damage: 5.08 -> 5.66
 -   Falloff start: 22.0 -> 6.0
