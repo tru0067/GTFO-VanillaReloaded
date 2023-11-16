@@ -53,6 +53,13 @@ Breakpoints affected: Spear will now be able to kill a striker with a fully char
 
 ### DMR
 
+*The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
+
+-   Bullet cost: 5.9 -> 5.2
+    -   Rounds/refill: 15.25 -> 17.31
+    -   Starting ammo: 50.85 -> 57.69
+    -   Maximum ammo (excluding clip): 77 -> 88
+
 ### Double Tap Rifle
 
 ### Assault Rifle
