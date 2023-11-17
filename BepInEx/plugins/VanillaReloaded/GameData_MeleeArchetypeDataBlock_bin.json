@@ -149,7 +149,7 @@
       "PublicName": "Bat",
       "NoiseLevel": 0,
       "ChargedAttackDamage": 12.0,
-      "LightAttackDamage": 3.0,
+      "LightAttackDamage": 3.5,
       "LightStaggerMulti": 4.0,
       "ChargedStaggerMulti": 6.0,
       "LightPrecisionMulti": 1.0,

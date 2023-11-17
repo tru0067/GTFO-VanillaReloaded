@@ -14,6 +14,12 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Bat
 
+*The Bat is a well-rounded melee, however it is largely overshadowed by the Sledgehammer. While the Sledgehammer's nerfs will let it shine as the melee with the highest stagger ability, we decided to additionally increase its light damage, to truly let its light attack shine.*
+
+Breakpoints affected: Bat will now be able to kill a Striker with a light attack to the occiput.
+
+-   Light attack damage: 3.0 -> 3.5
+
 ### Spear
 
 *While the recent buffs worked wonders for Spear's usability, Spear still felt to be the most underperforming of melee weapons. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it a minor buff to its light attack damage, allowing it to hit some important breakpoints.*
