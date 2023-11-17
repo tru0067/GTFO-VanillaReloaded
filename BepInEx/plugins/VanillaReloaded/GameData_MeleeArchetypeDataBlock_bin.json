@@ -61,7 +61,7 @@
       "LightEnvironmentMulti": 0.8,
       "ChargedEnvironmentMulti": 1.5,
       "LightBackstabberMulti": 1.0,
-      "ChargedBackstabberMulti": 1.0,
+      "ChargedBackstabberMulti": 1.5,
       "LightSleeperMulti": 1.0,
       "ChargedSleeperMulti": 2.0,
       "SkipLimbDestruction": false,
