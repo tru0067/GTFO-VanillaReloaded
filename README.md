@@ -57,6 +57,12 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### SMG
 
+*The recent buffs to SMG have put it in a decently good place. We've shifted some of its power away from its precision multiplier to its raw damage, which should help the weapon feel much more consistent, and also improve its performance in more hectic scenarios.*
+
+-   Damage: 1.98 -> 2.15
+-   Precision multiplier: 0.91 -> 0.8
+-   Shot delay: 0.066 -> 0.062
+
 ### PDW
 
 ### Carbine
