@@ -65,6 +65,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### PDW
 
+*We've reverted the PDW's previous damage nerf. With the removal of the Heavy SMG from the Main Weapon category, we felt that it was no longer competing with it for the role of a high damage SMG.*
+
+-   Damage: 2.15 -> 2.31
+
 ### Carbine
 
 ### DMR
