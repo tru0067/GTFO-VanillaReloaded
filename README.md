@@ -71,6 +71,11 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Carbine
 
+*Carbine has been repeatedly buffed to the point where it simply outshines the majority of other similar weapons. We've toned down its damage to a much more reasonable level, but have also given it more ammo to compensate.*
+
+-   Damage: 2.38 -> 2.01
+-   Bullet cost: 1.4 -> 1.15
+
 ### DMR
 
 *The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to Shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
