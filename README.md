@@ -89,6 +89,17 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Assault Rifle
 
+*The Assault Rifle was arguably one of the weakest weapons in the game, as such we've given it some significant buffs to its damage output. We've shifted its damage and precision multiplier to a point where headshots become incredibly rewarding, and adjusted its bullet cost and shot delay accordingly. We've additionally given it a buff to its range, so that it noticeably outranges the SMGs.*
+
+-   Damage: 2.1875 -> 2.81
+-   Falloff start: 10 -> 15
+-   Precision multiplier: 0.8 -> 0.9
+-   Bullet cost: 1.47 -> 1.95
+    -   Rounds/refill: 61.22 -> 46.15
+    -   Starting ammo: 204.08 -> 152.85
+    -   Maximum ammo (excluding clip): 312 -> 235
+-   Shot delay: 0.086 -> 0.09
+
 ### Burst Rifle
 
 ### Rifle
