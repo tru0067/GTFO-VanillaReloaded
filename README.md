@@ -261,6 +261,13 @@ Moved to Special Weapon category.
 
 ### Burst Sentry
 
+*Burst Sentry is currently by far the most powerful sentry. It has incredible breakpoints on Strikers, reliably killing in two bursts, and also has an incredible longevity, easily lasting the duration of most alarms. We've toned down its efficiency so that its power comes at a more noticeable cost.*
+
+-   Bullet cost: 1.95 -> 2.1
+    -   Rounds/refill: 53.98 -> 50.13
+    -   Starting ammo: 179.94 -> 167.08
+    -   Maximum ammo: 269 -> 250
+
 ### HEL Auto Sentry
 
 *The HEL Auto Sentry is currently in a poor spot, its targetting system causes it to miss a significant portions of its shots and its overpenetrating abilities are currently not functioning. While it could vastly improve by addressing these issues (which are beyond the scope of this mod), we still would like to see it shift into a more supportive role. Currently, it has a relatively high base DPS, and is incredibly tool hungry, we've slowed down its firerate substantially and given it some extra ammo, so that now it functions as more of a utility sentry - slowing down and chipping enemy waves without being a drain on the team's resources.*
