@@ -4122,7 +4122,7 @@
       "FireMode": 2,
       "RecoilDataID": 19,
       "DamageBoosterEffect": 55,
-      "Damage": 1.01,
+      "Damage": 1.21,
       "DamageFalloff": {
         "x": 5.0,
         "y": 55.0,
@@ -4135,11 +4135,11 @@
         "magnitude": 55.2268066,
         "sqrMagnitude": 3050.0
       },
-      "StaggerDamageMulti": 5.0,
+      "StaggerDamageMulti": 4.5,
       "PrecisionDamageMulti": 0.7413,
       "DefaultClipSize": 60,
       "DefaultReloadTime": 1.3,
-      "CostOfBullet": 0.8,
+      "CostOfBullet": 0.9,
       "ShotDelay": 0.058,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {

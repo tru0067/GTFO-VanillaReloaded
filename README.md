@@ -55,6 +55,15 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### HEL Autopistol
 
+*The HEL Autopistol is an interesting weapon, which leans heavily in to its crowd control capabilities at the expense of raw damage. However, we felt that its damage was a bit too lacking, especially when competitors like the HEL Shotgun have both strong damage and crowd control. As such, we've given it slightly more damage, and slightly reduced its ammo and stagger multiplier accordingly.*
+
+-   Damage: 1.01 -> 1.21
+-   Stagger multiplier: 5.0 -> 4.5
+-   Bullet cost: 0.8 -> 0.9
+    -   Rounds/refill: 112.50 -> 100.0
+    -   Starting ammo: 375.0 -> 333.33
+    -   Maximum ammo (excluding clip): 575 -> 511
+
 ### Bullpup Rifle
 
 *Despite its recent buffs, the Bullpup Rifle still felt that it was significantly underperforming. We opted to take a rather extreme route when rebalancing it, we gave it some incredible stats, but then reverted its reload back to a lengthier value. Hopefully, the weapon's incredible power will now feel it justifies its long reload.*
