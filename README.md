@@ -280,4 +280,13 @@ Moved to Special Weapon category.
 
 ### Sniper Sentry
 
+*After its slew of nerfs with the ALT://R3 patch, the Sniper Sentry suffered from extreme usability issues. Its start fire delay became so lengthy that it was unable to fire in most scenarios, and its ammo nerfs barely justified it even in scenarious with enough uninterruped LoS for it to function. We've given it slightly more ammo, as well as dramatically reduced its start fire delay (while toning down its bio-symbiosis start fire delay multiplier) to make it more usable in more scenarios (even without constant tagging from the Bio Tracker).*
+
+-   Bullet cost: 16.0 -> 15.0
+    -   Rounds/refill: 6.58 -> 7.02
+    -   Starting ammo: 21.93 -> 23.39
+    -   Maximum ammo: 32 -> 35
+-   Start fire delay: 3.0 -> 2.0
+-   Bio-symbiosis start fire delay multiplier: 0.5 -> 0.7
+
 ### Shotgun Sentry
