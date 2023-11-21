@@ -55,6 +55,17 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Bullpup Rifle
 
+*Despite its recent buffs, the Bullpup Rifle still felt that it was significantly underperforming. We opted to take a rather extreme route when rebalancing it, we gave it some incredible stats, but then reverted its reload back to a lengthier value. Hopefully, the weapon's incredible power will now feel it justifies its long reload.*
+
+-   Damage: 2.1 -> 2.91
+-   Falloff start: 15 -> 12
+-   Reload time: 2.1 -> 2.4
+-   Bullet cost: 1.5 -> 2.1
+    -   Rounds/refill: 60.0 -> 42.86
+    -   Starting ammo: 200.0 -> 142.86
+    -   Maximum ammo (excluding clip): 306 -> 219
+-   Shot delay: 0.055 -> 0.064
+
 ### SMG
 
 *The recent buffs to SMG have put it in a decently good place. We've shifted some of its power away from its precision multiplier to its raw damage, which should help the weapon feel much more consistent, and also improve its performance in more hectic scenarios.*
