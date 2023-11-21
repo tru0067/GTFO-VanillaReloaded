@@ -3748,7 +3748,7 @@
         "sqrMagnitude": 5800.0
       },
       "StaggerDamageMulti": 1.0,
-      "PrecisionDamageMulti": 1.3,
+      "PrecisionDamageMulti": 1.5,
       "DefaultClipSize": 12,
       "DefaultReloadTime": 3.3,
       "CostOfBullet": 5.5,
