@@ -120,6 +120,8 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Burst Rifle
 
+*We've found that the Burst Rifle is already a fairly well-rounded weapon, and fits in nicely with the rest of our changes.*
+
 ### Rifle
 
 *We found that after increasing the range of the Pistol, the Rifle struggled to have a unique identity. While being a longer range variant of the Pistol was certainly a valuable option, we decided to give the weapon a very unique place. The Rifle will now be able to two-shot Strikers at extremely close range, allowing for an extremely effective and efficient but risky playstyle. We've additionally changed its stagger multiplier to be more in line with other weapons.*
