@@ -259,7 +259,15 @@ Moved to Special Weapon category.
 
 ### Burst Sentry
 
-### Auto Sentry
+### HEL Auto Sentry
+
+*The HEL Auto Sentry is currently in a poor spot, its targetting system causes it to miss a significant portions of its shots and its overpenetrating abilities are currently not functioning. While it could vastly improve by addressing these issues (which are beyond the scope of this mod), we still would like to see it shift into a more supportive role. Currently, it has a relatively high base DPS, and is incredibly tool hungry, we've slowed down its firerate substantially and given it some extra ammo, so that now it functions as more of a utility sentry - slowing down and chipping enemy waves without being a drain on the team's resources.*
+
+-   Bullet cost: 10.0 -> 11.25
+    -   Rounds/refill: 150.38 -> 210.53
+    -   Starting ammo: 501.25 -> 701.75
+    -   Maximum ammo: 751 -> 1052
+-   Shot delay: 0.08 -> 0.125
 
 ### Sniper Sentry
 
