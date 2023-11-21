@@ -253,6 +253,8 @@ Moved to Special Weapon category.
 
 ### C-Foam Launcher
 
+*The C-Foam Launcher is incredibly difficult to balance. Perma-foaming doors and ladder-foam can trivialize some of the hardest content in the game, but without such environmental advantages it struggles to find value. We believe that the only way to address its power would be to change how it interacts with doors and ladders in a major way.*
+
 ### Mine Deployer
 
 *No changes.*
