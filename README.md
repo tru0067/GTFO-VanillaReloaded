@@ -201,7 +201,11 @@ Moved to Special Weapon category.
 
 ### Machinegun (Arbalist)
 
+*No changes.*
+
 ### Machinegun (Varuta)
+
+*No changes.*
 
 ### Burst Cannon
 
@@ -243,9 +247,13 @@ Moved to Special Weapon category.
 
 ### Bio Tracker
 
+*No changes.*
+
 ### C-Foam Launcher
 
 ### Mine Deployer
+
+*No changes.*
 
 ### Burst Sentry
 
