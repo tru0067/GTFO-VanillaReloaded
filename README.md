@@ -245,6 +245,8 @@ Moved to Special Weapon category.
 
 ### High Caliber Pistol
 
+*With our changes to Choke Mod Shotgun as well as HEL Rifle, we felt that the High Caliber Pistol sat in a good spot. Due to the Choke Mod Shotgun changes, it is now much more distinct from that weapon, and the HEL Rifle's ammo changes also provide a bit more room for the High Caliber Pistol to find play.*
+
 ### Precision Rifle
 
 *Its recent buffs made the Precision Rifle much more viable. The only change we've made is to increase its precision multiplier, this should make headshots much more impactful against Giant Shooters and Hybrids, while also slightly increasing its one-shot range on Scouts. This change also improves its match-up against boss enemies, though only slightly. The only other changes we would have liked to make would be to its thermal scope - moderately increasing the distance it can see through fog, as well as allowing it to see enemy projectiles. This would dramatically improve its usability against Shooters as well as Hybrids, both matchups where it should excel, but the inability to play around the enemy's attacks significantly hamper it.*
