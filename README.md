@@ -205,6 +205,13 @@ Moved to Special Weapon category.
 
 ### Choke Mod Shotgun
 
+*The Choke Mod Shotgun sits in an awkward spot, it currently feels substantially overshadowed by its other competitors in the 30 damage tier. It is noticeably outranged by the HEL Rifle, and lacks it overpenetrating utility, and it has less ammo than the High Caliber Pistol. The only advantage it has over these two weapons is its rate of fire, which should aid it substantially against bosses, but even then it still feels underwhelming due to its relatively small damage per clip. We've made some substantial changes to it, dramatically increasing its damage but also its spread. This opens up the possibility for it to spread its damage over multiple enemies, and should also substantially improve its power against bosses.*
+
+-   Damage: 30.08 -> 40.1
+-   Reload time: 2.72 -> 2.5
+-   Pellet count: 8 -> 10 (damage per pellet: 3.76 -> 4.01)
+-   Cone size: 0 -> 2
+
 ### Revolver
 
 *Revolver is a solid option into smaller enemies but disproportionally suffers into larger enemy variants. We've swapped its damage with that of HEL Gun in order to improve its matchup into these larger enemies. We've additionally given it a longer range flashlight, as it previously had the shortest possible flashlight range, despite being a medium range precision based weapon.*
