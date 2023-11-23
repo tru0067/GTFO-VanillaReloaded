@@ -314,3 +314,23 @@ Moved to Special Weapon category.
 -   Bio-symbiosis start fire delay multiplier: 0.5 -> 0.7
 
 ### Shotgun Sentry
+
+*Shotgun Sentry is in a dismal state, its current targeting causes it to miss a ridiculous amount of its shots. We've overhauled its targeting, so that it now aims at the bodies of enemies rather than their heads, decreased its maximum range (it often used to get stuck shooting enemies far beyond its effective range), split its damage over 10 pellets instead of 5 as well as reducing its spread (helping it hit the enemy it is targeting much more consistently). We've additionally redistributed some of its bio-symbiosis benefits so that it is more consistent without tagging, while not being quite so ridiculous with tags.
+
+-   Damage: 15.05 -> 15.1
+-   Bullet cost: 1.8 -> 0.8
+    -   Rounds/refill: 11.70 -> 13.16
+    -   Starting ammo: 38.99 -> 43.86
+    -   Maximum ammo: 58 -> 65
+-   Shot delay: 0.75 -> 0.8
+-   Pellet count: 5 -> 10 (damage per pellet: 3.01 -> 1.51)
+-   Pellet spread: 2 -> 1
+-   Start fire delay: 0.5 -> 0.3
+-   Rotation speed: 8.0 -> 20.0
+-   Detection max range: 10 -> 8
+-   Detection max angle: 40 -> 50
+-   Changed targeting to fire towards the body of enemies rather than their head (still prioritizes tagged enemies)
+-   Bio-symbiosis start fire delay multiplier: 0.25 -> 0.7
+-   Bio-symbiosis rotation speed multiplier: 2.0 -> 1.0
+-   Bio-symbiosis bullet cost multiplier: 0.5 -> 0.75
+-   Bio-symbiosis shot delay multiplier: 0.6 -> 0.9
