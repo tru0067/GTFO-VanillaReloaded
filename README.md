@@ -334,3 +334,7 @@ Moved to Special Weapon category.
 -   Bio-symbiosis rotation speed multiplier: 2.0 -> 1.0
 -   Bio-symbiosis bullet cost multiplier: 0.5 -> 0.75
 -   Bio-symbiosis shot delay multiplier: 0.6 -> 0.9
+
+## Acknowledgements
+
+A massive thanks to Jish, for inspiring me to start this project and getting me through the early stages. Thanks to Rayalot72, Chill Dude, D4RKEVA and BLACK_DRAGON for their insight on game balance. And thanks to my dog Petra, for being a lil cutie.
