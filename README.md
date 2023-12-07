@@ -160,6 +160,9 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 -   Falloff start: 12.0 -> 20.0
 -   Precision multiplier: 0.8 -> 0.9
+-   Reduced recoil
+    -   Minimum power: 0.8 -> 0.7 (pre-R7 was 0.625)
+    -   Maximum power: 1.3 -> 1.0 (pre-R7 was 0.75)
 
 ### Heavy SMG
 
