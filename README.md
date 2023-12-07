@@ -15,6 +15,7 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 *The Knife already has an interesting niche as an unrivaled melee in to smaller enemies. The only change we have made is to increase its backstab multiplier, to give the weapon something to aim for when enemies have their heads broken. This noticeably improves its matchup into Giants, though making use of its new multiplier is extremely risky.*
 
 -   Charged backstab multiplier: 1.0 -> 1.5
+-   Charged sleeping multiplier: 2.0 -> 1.5
 
 ### Bat
 

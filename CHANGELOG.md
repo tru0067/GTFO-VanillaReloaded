@@ -4,6 +4,9 @@ Initial release!
 
 ### v1.0.1
 
+#### Knife
+-   Charged sleeping multiplier: 2.0 -> 1.5
+
 #### Heavy Assault Rifle
 -   Reduced recoil
     -   Minimum power: 0.8 -> 0.7

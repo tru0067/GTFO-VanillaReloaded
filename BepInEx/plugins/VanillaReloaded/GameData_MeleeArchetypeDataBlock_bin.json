@@ -63,7 +63,7 @@
       "LightBackstabberMulti": 1.0,
       "ChargedBackstabberMulti": 1.5,
       "LightSleeperMulti": 1.0,
-      "ChargedSleeperMulti": 2.0,
+      "ChargedSleeperMulti": 1.5,
       "SkipLimbDestruction": false,
       "CameraDamageRayLength": 1.75,
       "AttackSphereRadius": 0.25,
