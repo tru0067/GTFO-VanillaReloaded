@@ -319,7 +319,7 @@ Moved to Special Weapon category.
 
 ### Shotgun Sentry
 
-*Shotgun Sentry is in a dismal state, its current targeting causes it to miss a ridiculous amount of its shots. We've overhauled its targeting, so that it now aims at the bodies of enemies rather than their heads, decreased its maximum range (it often used to get stuck shooting enemies far beyond its effective range), split its damage over 10 pellets instead of 5 as well as reducing its spread (helping it hit the enemy it is targeting much more consistently). We've additionally redistributed some of its bio-symbiosis benefits so that it is more consistent without tagging, while not being quite so ridiculous with tags.
+*Shotgun Sentry is in a dismal state, its current targeting causes it to miss a ridiculous amount of its shots. We've overhauled its targeting, so that it now aims at the bodies of enemies rather than their heads, decreased its maximum range (it often used to get stuck shooting enemies far beyond its effective range), split its damage over 10 pellets instead of 5 as well as reducing its spread (helping it hit the enemy it is targeting much more consistently). We've additionally redistributed some of its bio-symbiosis benefits so that it is more consistent without tagging, while not being quite so ridiculous with tags.*
 
 -   Damage: 15.05 -> 15.1
 -   Bullet cost: 1.8 -> 0.8
