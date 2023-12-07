@@ -236,8 +236,8 @@ Moved to Special Weapon category.
 
 -   Damage: 22.0 -> 20.01
 -   Reduced recoil
-    -   Minimum power: 0.6 -> 0.45 (pre-nerf was 0.2)
-    -   Maximum power: 1.2 -> 0.75 (pre-nerf was 0.4)
+    -   Minimum power: 0.6 -> 0.5 (pre-nerf was 0.2)
+    -   Maximum power: 1.2 -> 0.8 (pre-nerf was 0.4)
 
 ### HEL Gun
 
