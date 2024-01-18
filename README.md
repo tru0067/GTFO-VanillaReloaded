@@ -6,34 +6,30 @@ Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's exist
 
 ### Sledgehammer
 
-*The Sledgehammer is widely considered to be the most powerful melee weapon by a significant margin. Notably, with a fully charged hit, it is capable of outputting truly ridiculous amounts of stagger damage, allowing it to stagger chain Mothers, a mini-boss level enemy. We've toned down its charged stagger multiplier, so that giants will require a limb-break in order to stagger, and mini-boss enemies will no longer be consistently staggered.*
-
--   Charged stagger multiplier: 5.0 -> 1.5
+*The R8 nerfs to Sledgehammer's stagger were perfect, no additional changes necessary.*
 
 ### Knife
 
-*The Knife already has an interesting niche as an unrivaled melee in to smaller enemies. The only change we have made is to increase its backstab multiplier, to give the weapon something to aim for when enemies have their heads broken. This noticeably improves its matchup into Giants, though making use of its new multiplier is extremely risky.*
-
--   Charged backstab multiplier: 1.0 -> 1.5
--   Charged sleeping multiplier: 2.0 -> 1.5
+*R8's addition of a backstab multiplier to Knife gave it the perfect amount of power against Giants and other enemies where Knife prevously struggled, no additional changes necessary.*
 
 ### Bat
 
-*The Bat is a well-rounded melee, however it is largely overshadowed by the Sledgehammer. While the Sledgehammer's nerfs will let it shine as the melee with the highest stagger ability, we decided to additionally increase its light damage, to truly let its light attack shine.*
+*The Bat is a well-rounded melee, however it is largely overshadowed by the Sledgehammer. While the R8's Sledgehammer nerfs have let it shine as the melee with the highest stagger ability, we decided to additionally increase its light damage, to truly let its light attack shine. We've slightly reduced its light attack stagger multiplier to keep its stagger slightly reasonable to compensate.*
 
 Breakpoints affected: Bat will now be able to kill a Striker with a light attack to the occiput.
 
 -   Light attack damage: 3.0 -> 3.5
+-   Light attack stagger multiplier: 5.0 -> 4.0
 
 ### Spear
 
 *While the recent buffs worked wonders for Spear's usability, Spear still felt to be the most underperforming of melee weapons. We have substantially reduced Spear's stamina usage and slightly reduced its charge time, allowing players to better utilize the playstyle of adopting defensive positions interspersed with quick repositions. We have additionally given it a minor buff to its light attack damage, allowing it to hit some important breakpoints.*
 
-Breakpoints affected: Spear will now be able to kill a Striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to guarantee a light stagger on Strikers with a light attack to the body. Spear will now be able to kill a Shooter with a light attack to the occiput.
+Breakpoints affected: Spear will now be able to kill a Striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to kill a Shooter with a light attack to the occiput.
 
 -   Light attack damage: 2.0 -> 2.5
 -   Charged stamina cost: 5% -> 0%
--   Max damage charge time: 1.7 -> 1.5
+-   Max damage charge time: 1.8 -> 1.5
 
 ### Pistol
 
@@ -56,22 +52,20 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### HEL Autopistol
 
-*The HEL Autopistol is an interesting weapon, which leans heavily in to its crowd control capabilities at the expense of raw damage. However, we felt that its damage was a bit too lacking, especially when competitors like the HEL Shotgun have both strong damage and crowd control. As such, we've given it slightly more damage, and slightly reduced its ammo and stagger multiplier accordingly.*
+*The R8 buffs gave HEL Autopistol a huge damage boost, to the point that it easily competed with weapons which did not have its incredible utility in crowd control. We've toned down its damage to reinforce its role as a stagger weapon, while increasing its ammo to compensate.*
 
--   Damage: 1.01 -> 1.21
--   Stagger multiplier: 5.0 -> 4.5
--   Bullet cost: 0.8 -> 0.9
-    -   Rounds/refill: 112.50 -> 100.0
-    -   Starting ammo: 375.0 -> 333.33
-    -   Maximum ammo (excluding clip): 575 -> 511
+-   Damage: 1.5 -> 1.21
+-   Bullet cost: 1.0 -> 0.9
+    -   Rounds/refill: 90.0 -> 100.0
+    -   Starting ammo: 300.0 -> 333.33
+    -   Maximum ammo (excluding clip): 460 -> 511
 
 ### Bullpup Rifle
 
 *Despite its recent buffs, the Bullpup Rifle still felt that it was significantly underperforming. We opted to take a rather extreme route when rebalancing it, we gave it some incredible stats, but then reverted its reload back to a lengthier value. Hopefully, the weapon's incredible power will now feel it justifies its long reload.*
 
 -   Damage: 2.1 -> 2.91
--   Falloff start: 15 -> 12
--   Reload time: 2.1 -> 2.4
+-   Reload time: 2.3 -> 2.4
 -   Bullet cost: 1.5 -> 2.1
     -   Rounds/refill: 60.0 -> 42.86
     -   Starting ammo: 200.0 -> 142.86
@@ -146,13 +140,13 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Sawed-Off Shotgun
 
-*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its tiny clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. However, the recent patches have already done a good job of improving its consistency and uptime and as a result we have made no further changes.*
+*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its small clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. However, the recent patches have already done a good job of improving its consistency and uptime and as a result we have made no further changes.*
 
 ### HEL Shotgun
 
 *While HEL Shotgun is certainly a powerful weapon, it is also incredibly unique, and so, while considering possible changes to it, we endevoured not to disrupt this weapon from its highly specialized niche. We opted to slightly reduce its damage and clipsize, in order to tone down its rather polarizing damage per clip, while keeping the other elements of the weapon intact.*
 
--   Damage: 1.67 -> 1.56
+-   Damage: 13.36 -> 12.48 (damage per pellet: 1.67 -> 1.56)
 -   Clipsize: 14 -> 12
 
 ### Heavy Assault Rifle
@@ -199,13 +193,14 @@ Moved to Special Weapon category.
 
 ### Scattergun
 
-*The Scattergun disproportionately trivializes most boss enemies. We've toned down its precision multiplier to reduce its damage in these encounters, and have also slightly increased its bullet cost so that it requires more thoughtful use.*
+*The Scattergun disproportionately trivializes most boss enemies. We've toned down its damage and precision multiplier to reduce its power in these encounters, and have also increased its bullet cost so that it requires more thoughtful use.*
 
+-   Damage: 153.6 -> 128.32 (damage per pellet: 4.8 -> 4.01)
 -   Precision multiplier: 0.7333 -> 0.67
--   Bullet cost: 19.15 -> 20.0
-    -   Rounds/refill: 4.70 -> 4.50
-    -   Starting ammo: 7.83 -> 7.50
-    -   Maximum ammo (excluding clip): 12 -> 11
+-   Bullet cost: 16.3 -> 20.0
+    -   Rounds/refill: 5.52 -> 4.50
+    -   Starting ammo: 9.20 -> 7.50
+    -   Maximum ammo (excluding clip): 14 -> 11
 
 ### Choke Mod Shotgun
 
@@ -233,19 +228,14 @@ Moved to Special Weapon category.
 
 ### Burst Cannon
 
-*Upon its initial reintroduction to the game, the Burst Cannon was clearly unbalanced, since then, it has received two nerfs - to its ammo efficiency and its recoil - and one buff - to its damage. We have decided to revert its damage buff and slightly tone down the increased recoil. With these changes, Burst Cannon will continue to be an incredibly potent weapon, while keeping clear downsides in both its ammo economy and its handling, as well as returning to requiring substantial follow-up for efficient kills on giants.*
-
--   Damage: 22.0 -> 20.01
--   Reduced recoil
-    -   Minimum power: 0.6 -> 0.5 (pre-nerf was 0.2)
-    -   Maximum power: 1.2 -> 0.8 (pre-nerf was 0.4)
+*The R8 rework of Burst Cannon into a 3-shot burst changed the weapon in many ways. While we will miss the raw power output of its 5-burst, it is much less polarizing and much more usable as a 3-burst. We have made no additional changes to it.*
 
 ### HEL Gun
 
 *The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies. Additionally, we've reverted some of the changes to its charge time to hopefully improve the responsiveness of the weapon.*
 
 -   Damage: 16.25 -> 14.21
--   Charge time: 0.3 -> 0.15
+-   Charge time: 0.2 -> 0.15
 
 ### High Caliber Pistol
 
@@ -253,18 +243,23 @@ Moved to Special Weapon category.
 
 ### Precision Rifle
 
-*Its recent buffs made the Precision Rifle much more viable. The only change we've made is to increase its precision multiplier, this should make headshots much more impactful against Giant Shooters and Hybrids, while also slightly increasing its one-shot range on Scouts. This change also improves its match-up against boss enemies, though only slightly. The only other changes we would have liked to make would be to its thermal scope - moderately increasing the distance it can see through fog, as well as allowing it to see enemy projectiles. This would dramatically improve its usability against Shooters as well as Hybrids, both matchups where it should excel, but the inability to play around the enemy's attacks significantly hamper it.*
+*Its recent buffs made the Precision Rifle much more viable, though its clip size reduction in R8 was not needed. We've reverted its clip size back to 12, and the only other change we've made is to increase its precision multiplier, this should make headshots much more impactful against Giant Shooters and Hybrids, while also slightly increasing its one-shot range on Scouts. This change also improves its match-up against boss enemies, though only slightly. The only other changes we would have liked to make would be to its thermal scope - moderately increasing the distance it can see through fog, as well as allowing it to see enemy projectiles. This would dramatically improve its usability against Shooters as well as Hybrids, both matchups where it should excel, but the inability to play around the enemy's attacks significantly hamper it.*
 
 -   Precision multiplier: 1.3 -> 1.5
+-   Clip size: 10 -> 12
 
 ### Sniper
 
-*Sniper is an incredibly polarizing weapon. In the hands of an experienced player, it can trivialize the threat posed by larger enemy varieties, but it also disproportionally suffers from low player accuracy and from level design that does not favor it. We feel that Sniper is very close to being in its best possible state, however, for the enormous amount of work that the weapon is capable of, we feel that its ammo reserves can sometimes be a bit too forgiving.*
+*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted it back to its previous state (with a tiny ammo nerf to reduce its maximum capacity back to 12).*
 
--   Bullet cost: 23.0 -> 24.0
-    -   Rounds/refill: 3.91 -> 3.75
-    -   Starting ammo: 6.52 -> 6.25
-    -   Maximum ammo (excluding clip): 10 -> 9
+-   Clip size: 2 -> 3
+-   Bullet cost: 17.5 -> 24.0
+    -   Rounds/refill: 5.14 -> 3.75
+    -   Starting ammo: 8.57 -> 6.25
+    -   Maximum ammo (excluding clip): 13 -> 9
+-   Shot delay: 1.3 -> 0.5
+-   Hip fire spread: 13.0 -> 3.0
+-   Recoil reduced (back to pre-R8 level)
 
 ### HEL Rifle
 
@@ -289,12 +284,14 @@ Moved to Special Weapon category.
 
 ### Burst Sentry
 
-*Burst Sentry is currently by far the most powerful sentry. It has incredible breakpoints on Strikers, reliably killing in two bursts, and also has an incredible longevity, easily lasting the duration of most alarms. We've toned down its efficiency so that its power comes at a more noticeable cost.*
+*While Burst Sentry remains an incredibly powerful option, the changes in R8 have somewhat addressed its previous dominance. We've only slightly nerfed its ammo and fire-rate to marginally reduce its power, and hope that the rest of our sentry changes will bring the sentries onto a more even playing field.*
 
--   Bullet cost: 1.95 -> 2.1
-    -   Rounds/refill: 53.98 -> 50.13
-    -   Starting ammo: 179.94 -> 167.08
-    -   Maximum ammo: 269 -> 250
+-   Bullet cost: 2.05 -> 2.1
+    -   Rounds/refill: 51.35 -> 50.13
+    -   Starting ammo: 171.16 -> 167.08
+    -   Maximum ammo: 256 -> 250
+-   Shot delay: 0.045 -> 0.05
+-   Burst delay: 1.0 -> 1.05
 
 ### HEL Auto Sentry
 
@@ -308,13 +305,14 @@ Moved to Special Weapon category.
 
 ### Sniper Sentry
 
-*After its slew of nerfs with the ALT://R3 patch, the Sniper Sentry suffered from extreme usability issues. Its start fire delay became so lengthy that it was unable to fire in most scenarios, and its ammo nerfs barely justified it even in scenarious with enough uninterruped LoS for it to function. We've given it slightly more ammo, as well as dramatically reduced its start fire delay (while toning down its bio-symbiosis start fire delay multiplier) to make it more usable in more scenarios (even without constant tagging from the Bio Tracker).*
+*After its slew of nerfs with the ALT://R3 patch, the Sniper Sentry suffered from extreme usability issues. While the R8 patch did somewhat addess this, we've still found it to be somewhat lacking, except in scenarios which very strongly favour it. We've given it slightly more ammo, as well as reduced its start fire delay (while toning down its bio-symbiosis start fire delay multiplier) to make it more usable in more scenarios.*
 
 -   Bullet cost: 16.0 -> 15.0
     -   Rounds/refill: 6.58 -> 7.02
     -   Starting ammo: 21.93 -> 23.39
     -   Maximum ammo: 32 -> 35
--   Start fire delay: 3.0 -> 2.0
+-   Shot delay: 2.6 -> 2.8
+-   Start fire delay: 2.8 -> 2.0
 -   Bio-symbiosis start fire delay multiplier: 0.5 -> 0.7
 
 ### Shotgun Sentry
@@ -322,10 +320,10 @@ Moved to Special Weapon category.
 *Shotgun Sentry is in a dismal state, its current targeting causes it to miss a ridiculous amount of its shots. We've overhauled its targeting, so that it now aims at the bodies of enemies rather than their heads, decreased its maximum range (it often used to get stuck shooting enemies far beyond its effective range), split its damage over 10 pellets instead of 5 as well as reducing its spread (helping it hit the enemy it is targeting much more consistently). We've additionally redistributed some of its bio-symbiosis benefits so that it is more consistent without tagging, while not being quite so ridiculous with tags.*
 
 -   Damage: 15.05 -> 15.1
--   Bullet cost: 1.8 -> 0.8
-    -   Rounds/refill: 11.70 -> 13.16
-    -   Starting ammo: 38.99 -> 43.86
-    -   Maximum ammo: 58 -> 65
+-   Bullet cost: 1.58 -> 0.8
+    -   Rounds/refill: 13.32 -> 13.16
+    -   Starting ammo: 44.41 -> 43.86
+    -   Maximum ammo: 66 -> 65
 -   Shot delay: 0.75 -> 0.8
 -   Pellet count: 5 -> 10 (damage per pellet: 3.01 -> 1.51)
 -   Pellet spread: 2 -> 1

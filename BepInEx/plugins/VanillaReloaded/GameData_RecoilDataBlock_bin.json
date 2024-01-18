@@ -309,14 +309,14 @@
     },
     {
       "power": {
-        "Min": 0.6,
-        "Max": 0.8
+        "Min": 0.4,
+        "Max": 0.6
       },
       "spring": 3.0,
       "dampening": 12.0,
-      "hipFireCrosshairSizeDefault": 60.0,
+      "hipFireCrosshairSizeDefault": 80.0,
       "hipFireCrosshairRecoilPop": 20.0,
-      "hipFireCrosshairSizeMax": 120.0,
+      "hipFireCrosshairSizeMax": 140.0,
       "horizontalScale": {
         "Min": 0.1,
         "Max": -0.3
@@ -469,8 +469,8 @@
     },
     {
       "power": {
-        "Min": 0.5,
-        "Max": 0.8
+        "Min": 0.4,
+        "Max": 0.9
       },
       "spring": 2.0,
       "dampening": 20.0,
@@ -782,8 +782,8 @@
     },
     {
       "power": {
-        "Min": 0.3,
-        "Max": 0.5
+        "Min": 0.5,
+        "Max": 0.75
       },
       "spring": 2.0,
       "dampening": 10.0,
@@ -791,8 +791,8 @@
       "hipFireCrosshairRecoilPop": 10.0,
       "hipFireCrosshairSizeMax": 110.0,
       "horizontalScale": {
-        "Min": -0.4,
-        "Max": 0.5
+        "Min": -0.1,
+        "Max": 0.2
       },
       "verticalScale": {
         "Min": 0.7,
@@ -1819,6 +1819,86 @@
       "name": "ShotgunSemi_v2",
       "internalEnabled": true,
       "persistentID": 6
+    },
+    {
+      "power": {
+        "Min": 2.7,
+        "Max": 3.5
+      },
+      "spring": 2.0,
+      "dampening": 12.0,
+      "hipFireCrosshairSizeDefault": 70.0,
+      "hipFireCrosshairRecoilPop": 20.0,
+      "hipFireCrosshairSizeMax": 100.0,
+      "horizontalScale": {
+        "Min": -0.2,
+        "Max": 0.4
+      },
+      "verticalScale": {
+        "Min": 0.7,
+        "Max": 1.0
+      },
+      "directionalSimilarity": 0.0,
+      "worldToViewSpaceBlendHorizontal": 0.2,
+      "worldToViewSpaceBlendVertical": 0.2,
+      "recoilPosImpulse": {
+        "x": 1.0,
+        "y": -40.0,
+        "z": -3.0,
+        "normalized": {
+          "x": 0.0249222387,
+          "y": -0.9968896,
+          "z": -0.07476672,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 40.1248055,
+        "sqrMagnitude": 1610.0
+      },
+      "recoilPosShift": {
+        "x": 0.0,
+        "y": -0.1,
+        "z": -0.1,
+        "normalized": {
+          "x": 0.0,
+          "y": -0.707106769,
+          "z": -0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.141421363,
+        "sqrMagnitude": 0.0200000014
+      },
+      "recoilPosShiftWeight": 1.0,
+      "recoilPosStiffness": 180.0,
+      "recoilPosDamping": 30.0,
+      "recoilPosImpulseWeight": 1.0,
+      "recoilCameraPosWeight": 1.0,
+      "recoilAimingWeight": 0.7,
+      "recoilRotImpulse": {
+        "x": 10.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.9901476,
+          "y": 0.09901476,
+          "z": 0.09901476,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 10.0995045,
+        "sqrMagnitude": 102.0
+      },
+      "recoilRotStiffness": 50.0,
+      "recoilRotDamping": 8.0,
+      "recoilRotImpulseWeight": 200.0,
+      "recoilCameraRotWeight": 1.0,
+      "concussionIntensity": 3.0,
+      "concussionFrequency": 15.0,
+      "concussionDuration": 0.3,
+      "name": "ShotgunSlug",
+      "internalEnabled": true,
+      "persistentID": 50
     },
     {
       "power": {
