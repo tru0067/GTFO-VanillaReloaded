@@ -75,3 +75,11 @@ Updated to R8!
 
 #### Shotgun Sentry
 -   Kept Vanilla Reloaded changes
+
+### v1.1.1
+
+#### HEL Revolver
+-   Bullet cost: 6.0 -> 5.6
+
+#### DMR
+-   Bullet cost: 5.2 -> 5.4

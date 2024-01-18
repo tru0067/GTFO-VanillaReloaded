@@ -40,10 +40,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 *HEL Revolver was definitely overperforming at high level play. The main attraction of this weapon was its insane uptime with reload cancel, incredibly good ammo efficiency and an incredibly fast time to kill, to the point that the overpenetrating qualities just became icing on the cake. We've leaned in to the overpenetrating qualities, while toning down some other aspects of the weapon.*
 
 -   Clip size: 8 -> 6
--   Bullet cost: 5.0 -> 6.0
-    -   Rounds/refill: 18.0 -> 15.0
-    -   Starting ammo: 60.0 -> 50.0
-    -   Maximum ammo (excluding clip): 92 -> 76
+-   Bullet cost: 5.0 -> 5.6
+    -   Rounds/refill: 18.0 -> 16.07
+    -   Starting ammo: 60.0 -> 53.57
+    -   Maximum ammo (excluding clip): 92 -> 82
 -   Piercing (number of enemies that can be hit with a single shot): 2 -> 3
 
 ### Machine Pistol
@@ -97,10 +97,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 *The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to Shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
 
--   Bullet cost: 5.9 -> 5.2
-    -   Rounds/refill: 15.25 -> 17.31
-    -   Starting ammo: 50.85 -> 57.69
-    -   Maximum ammo (excluding clip): 77 -> 88
+-   Bullet cost: 5.9 -> 5.4
+    -   Rounds/refill: 15.25 -> 16.67
+    -   Starting ammo: 50.85 -> 55.56
+    -   Maximum ammo (excluding clip): 77 -> 85
 
 ### Double Tap Rifle
 
