@@ -83,3 +83,13 @@ Updated to R8!
 
 #### DMR
 -   Bullet cost: 5.2 -> 5.4
+
+
+### v1.1.2
+
+#### Burst Cannon
+-   Damage: 20.01 -> 22.00 (inadvertently didn't revert this change earlier)
+-   Clip size: 20 -> 18
+
+#### Sniper
+-   Clip size: 2 -> 3 (inadvertently didn't revert this change earlier)

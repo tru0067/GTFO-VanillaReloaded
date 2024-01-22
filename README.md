@@ -228,7 +228,9 @@ Moved to Special Weapon category.
 
 ### Burst Cannon
 
-*The R8 rework of Burst Cannon into a 3-shot burst changed the weapon in many ways. While we will miss the raw power output of its 5-burst, it is much less polarizing and much more usable as a 3-burst. We have made no additional changes to it.*
+*The R8 rework of Burst Cannon into a 3-shot burst changed the weapon in many ways. While we will miss the raw power output of its 5-burst, it is much less polarizing and much more usable as a 3-burst. The only change that we have made is tweaking its clip size to a multiple of its burst.*
+
+-   Clip size: 20 -> 18
 
 ### HEL Gun
 
