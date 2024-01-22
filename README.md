@@ -35,6 +35,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 *The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on Strikers, but the recent patches have already addressed this.*
 
+### Burst Pistol
+
+*No changes yet.*
+
 ### HEL Revolver
 
 *HEL Revolver was definitely overperforming at high level play. The main attraction of this weapon was its insane uptime with reload cancel, incredibly good ammo efficiency and an incredibly fast time to kill, to the point that the overpenetrating qualities just became icing on the cake. We've leaned in to the overpenetrating qualities, while toning down some other aspects of the weapon.*
@@ -167,6 +171,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 -   Reduced recoil
     -   Minimum power: 0.8 -> 0.7 (pre-R7 was 0.625)
     -   Maximum power: 1.3 -> 1.0 (pre-R7 was 0.75)
+
+### Short Rifle
+
+*No changes yet.*
 
 ### Heavy SMG
 
