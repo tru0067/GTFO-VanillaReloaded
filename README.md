@@ -149,6 +149,15 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 -   Damage: 13.36 -> 12.48 (damage per pellet: 1.67 -> 1.56)
 -   Clipsize: 14 -> 12
 
+### Slug Shotgun
+
+-   Falloff end: 40 -> 50
+-   Bullet cost: 12.0 -> 11.5
+    -   Rounds/refill: 7.50 -> 7.83
+    -   Starting ammo: 25.00 -> 26.09
+    -   Maximum ammo (excluding clip): 38 -> 40
+-   Shot delay: 0.75 -> 0.65
+
 ### Heavy Assault Rifle
 
 *As part of our changes to many of the automatic weapons, we've slightly increased the precision multiplier of the Heavy Assault Rifle in order reward player accuracy slightly more. While this doesn't change many breakpoints for this weapon, it'll hopefully still make it so that headshots feel more impactful while in team scenarios. We've additionally increased the falloff start range to be slightly higher than the machineguns that Heavy Assault Rifle directly competes with.*

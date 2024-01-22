@@ -2896,7 +2896,7 @@
       "Damage": 21.0,
       "DamageFalloff": {
         "x": 6.0,
-        "y": 40.0,
+        "y": 50.0,
         "normalized": {
           "x": 0.148340449,
           "y": 0.9889363,
@@ -2916,8 +2916,8 @@
       "PrecisionDamageMulti": 0.7413,
       "DefaultClipSize": 6,
       "DefaultReloadTime": 2.5,
-      "CostOfBullet": 12.0,
-      "ShotDelay": 0.75,
+      "CostOfBullet": 11.5,
+      "ShotDelay": 0.65,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
         "x": 3.0,

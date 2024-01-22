@@ -87,6 +87,11 @@ Updated to R8!
 
 ### v1.1.2
 
+#### Slug Shotgun
+-   Falloff end: 40 -> 50
+-   Bullet cost: 12.0 -> 11.5
+-   Shot delay: 0.75 -> 0.65
+
 #### Burst Cannon
 -   Damage: 20.01 -> 22.00 (inadvertently didn't revert this change earlier)
 -   Clip size: 20 -> 18
