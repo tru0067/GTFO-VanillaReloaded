@@ -98,3 +98,8 @@ Updated to R8!
 
 #### Sniper
 -   Clip size: 2 -> 3 (inadvertently didn't revert this change earlier)
+
+### v1.1.3
+
+#### Burst Sentry
+-   Bullet cost: 2.05 -> 2.1 (inadvertently didn't revert this change earlier)
