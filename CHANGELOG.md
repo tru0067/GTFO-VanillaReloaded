@@ -100,5 +100,11 @@ Updated to R8!
 
 ### v1.1.3
 
+#### Burst Pistol
+-   Damage: 3.05 -> 3.38
+-   Precision Multiplier: 0.8667 -> 0.9
+-   Bullet cost: 1.8 -> 1.9
+-   Burst delay: 0.2 -> 0.12
+
 #### Burst Sentry
 -   Bullet cost: 2.05 -> 2.1 (inadvertently didn't revert this change earlier)

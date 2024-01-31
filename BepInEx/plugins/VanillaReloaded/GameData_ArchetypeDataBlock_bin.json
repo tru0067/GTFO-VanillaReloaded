@@ -4231,7 +4231,7 @@
       "FireMode": 1,
       "RecoilDataID": 18,
       "DamageBoosterEffect": 50,
-      "Damage": 3.05,
+      "Damage": 3.38,
       "DamageFalloff": {
         "x": 7.0,
         "y": 47.0,
@@ -4245,10 +4245,10 @@
         "sqrMagnitude": 2258.0
       },
       "StaggerDamageMulti": 1.0,
-      "PrecisionDamageMulti": 0.8667,
+      "PrecisionDamageMulti": 0.9,
       "DefaultClipSize": 28,
       "DefaultReloadTime": 1.25,
-      "CostOfBullet": 1.8,
+      "CostOfBullet": 1.9,
       "ShotDelay": 0.06,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -4293,7 +4293,7 @@
       ],
       "AimTransitionTime": 0.2,
       "AimSequence": [],
-      "BurstDelay": 0.2,
+      "BurstDelay": 0.12,
       "BurstShotCount": 2,
       "ShotgunBulletCount": 0,
       "ShotgunConeSize": 0,
