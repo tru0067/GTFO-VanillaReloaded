@@ -106,5 +106,14 @@ Updated to R8!
 -   Bullet cost: 1.8 -> 1.9
 -   Burst delay: 0.2 -> 0.12
 
+#### Short Rifle
+-   Damage: 4.81 -> 6.91
+-   Falloff start: 8 -> 6
+-   Falloff end: 58 -> 50
+-   Stagger multiplier: 0.5 -> 0.7
+-   Precision multiplier: 0.7413 -> 0.8
+-   Clip size: 30 -> 24
+-   Bullet cost: 1.38 -> 1.8
+
 #### Burst Sentry
 -   Bullet cost: 2.05 -> 2.1 (inadvertently didn't revert this change earlier)
