@@ -84,7 +84,6 @@ Updated to R8!
 #### DMR
 -   Bullet cost: 5.2 -> 5.4
 
-
 ### v1.1.2
 
 #### Slug Shotgun
