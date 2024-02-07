@@ -117,3 +117,6 @@ Updated to R8!
 
 #### Burst Sentry
 -   Bullet cost: 2.05 -> 2.1 (inadvertently didn't revert this change earlier)
+
+### v1.1.4
+Add website

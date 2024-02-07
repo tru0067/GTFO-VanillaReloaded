@@ -1,7 +1,7 @@
 {
     "name": "VanillaReloaded",
-    "version_number": "1.1.3",
-    "website_url": "",
+    "version_number": "1.1.4",
+    "website_url": "https://github.com/tru0067/GTFO-VanillaReloaded",
     "description": "Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's existing arsenal into a more interesting state.",
     "dependencies": [
         "dakkhuza-MTFO-4.5.1"
