@@ -1449,7 +1449,7 @@
       "PrecisionDamageMulti": 0.8,
       "DefaultClipSize": 9,
       "DefaultReloadTime": 3.3,
-      "CostOfBullet": 6.5,
+      "CostOfBullet": 5.74,
       "ShotDelay": 0.1,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -1591,7 +1591,7 @@
       ],
       "AimTransitionTime": 0.35,
       "AimSequence": [],
-      "BurstDelay": 0.3,
+      "BurstDelay": 0.2,
       "BurstShotCount": 3,
       "ShotgunBulletCount": 0,
       "ShotgunConeSize": 0,
@@ -1643,7 +1643,7 @@
       "PrecisionDamageMulti": 0.7413,
       "DefaultClipSize": 40,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 1.77,
+      "CostOfBullet": 1.595,
       "ShotDelay": 0.13,
       "ShellCasingSize": 1.5,
       "ShellCasingSpeedRange": {
@@ -2813,7 +2813,7 @@
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 8,
       "DefaultReloadTime": 3.0,
-      "CostOfBullet": 10.0,
+      "CostOfBullet": 9.55,
       "ShotDelay": 0.6,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -4233,16 +4233,16 @@
       "DamageBoosterEffect": 50,
       "Damage": 3.38,
       "DamageFalloff": {
-        "x": 7.0,
+        "x": 10.0,
         "y": 47.0,
         "normalized": {
-          "x": 0.1473113,
-          "y": 0.9890902,
+          "x": 0.20810765,
+          "y": 0.9781059,
           "magnitude": 1.0,
-          "sqrMagnitude": 1.0
+          "sqrMagnitude": 0.99999994
         },
-        "magnitude": 47.5184174,
-        "sqrMagnitude": 2258.0
+        "magnitude": 48.0520554,
+        "sqrMagnitude": 2309.0
       },
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 0.9,
@@ -4330,16 +4330,22 @@
       "DamageBoosterEffect": 63,
       "Damage": 1.9,
       "DamageFalloff": {
-        "x": 5.0,
+        "x": 7.0,
         "y": 35.0,
         "normalized": {
-          "x": 0.141421363,
-          "y": 0.989949465,
-          "magnitude": 1.0,
-          "sqrMagnitude": 0.99999994
+          "x": 0.19611612,
+          "y": 0.9805806,
+          "normalized": {
+            "x": 0.196116135,
+            "y": 0.9805807,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
         },
-        "magnitude": 35.35534,
-        "sqrMagnitude": 1250.0
+        "magnitude": 35.69314,
+        "sqrMagnitude": 1274.0
       },
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 0.7413,

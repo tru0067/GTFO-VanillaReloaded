@@ -119,4 +119,32 @@ Updated to R8!
 -   Bullet cost: 2.05 -> 2.1 (inadvertently didn't revert this change earlier)
 
 ### v1.1.4
-Add website
+Added website.
+
+### v1.1.5
+Updated to latest vanilla verion (34850).
+
+#### Burst Pistol
+-   Kept VanillaReloaded damage change
+-   Kept vanilla falloff start change
+
+#### Machine Pistol
+-   Kept vanilla falloff start change
+
+#### DMR
+-   Kept VanillaReloaded bullet cost change
+
+#### Shotgun
+-   Kept vanilla bullet cost change
+
+#### Machinegun (Arbalist)
+-   Kept vanilla bullet cost change
+
+#### Burst Canon
+-   Kept vanilla burst delay change
+
+#### HEL Gun
+-   Kept vanilla bullet cost change
+
+#### Sniper
+-   Kept VanillaReloaded changes

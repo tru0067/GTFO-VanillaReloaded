@@ -39,7 +39,7 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 *Burst Pistol seems to have entered the game in a fairly underwhelming state. We've buffed its damage to make its breakpoints a bit more forgiving, and lowered its burst delay to make it more spammable. We've slightly lowered its ammo to compensate.*
 
--   Damage: 3.05 -> 3.38
+-   Damage: 3.2 -> 3.38
 -   Precision Multiplier: 0.8667 -> 0.9
 -   Bullet cost: 1.8 -> 1.9
     -   Rounds/refill: 50.0 -> 47.37
@@ -109,10 +109,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 *The DMR is already a very well-rounded weapon, with stats that make it highly effective, coupled with its great match-up in to Shooters, this made it an exceptional choice in solo play. However, its low ammo made it suffer in team environments. We've given it a slight decrease to its bullet cost to make it slightly more efficient.*
 
--   Bullet cost: 5.9 -> 5.4
-    -   Rounds/refill: 15.25 -> 16.67
-    -   Starting ammo: 50.85 -> 55.56
-    -   Maximum ammo (excluding clip): 77 -> 85
+-   Bullet cost: 5.99 -> 5.4
+    -   Rounds/refill: 15.28 -> 16.67
+    -   Starting ammo: 50.93 -> 55.56
+    -   Maximum ammo (excluding clip): 78 -> 85
 
 ### Double Tap Rifle
 
@@ -211,12 +211,7 @@ Moved to Special Weapon category.
 
 ### Shotgun
 
-*Like the DMR, the Shotgun already has the stats to make it an extremely effective weapon, but it lacks the ammo to shine in most situations. We've given it slightly more ammo to hopefully make it a more viable pick in more scenarios.*
-
--   Bullet cost: 11.0 -> 10.0
-    -   Rounds/refill: 8.18 -> 9.00
-    -   Starting ammo: 13.64 -> 15.00
-    -   Maximum ammo (excluding clip): 20 -> 23
+*Shotgun has always had the stats to make it an extremely effective weapon, and the recent patch has given it enough ammo to shine in most situations. No changes.*
 
 ### Combat Shotgun
 
@@ -288,14 +283,14 @@ Moved to Special Weapon category.
 
 ### Sniper
 
-*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted it back to its previous state (with a tiny ammo nerf to reduce its maximum capacity back to 12).*
+*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted it back to its previous state (with a tiny ammo nerf to reduce its maximum capacity back to 12). This currently means that with the latest changes to how boss tumors behave, Sniper is extremely unbalanced against boss enemies. However, balancing its match-up against boss enemies while still feeling effective against Giants does not seem possible within the scope of this mod.*
 
 -   Clip size: 2 -> 3
 -   Bullet cost: 17.5 -> 24.0
     -   Rounds/refill: 5.14 -> 3.75
     -   Starting ammo: 8.57 -> 6.25
     -   Maximum ammo (excluding clip): 13 -> 9
--   Shot delay: 1.3 -> 0.5
+-   Shot delay: 0.8 -> 0.5
 -   Hip fire spread: 13.0 -> 3.0
 -   Recoil reduced (back to pre-R8 level)
 
