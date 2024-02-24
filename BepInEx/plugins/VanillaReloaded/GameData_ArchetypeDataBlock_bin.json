@@ -2425,8 +2425,8 @@
       "PrecisionDamageMulti": 2.0025,
       "DefaultClipSize": 3,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 24.0,
-      "ShotDelay": 0.5,
+      "CostOfBullet": 22.0,
+      "ShotDelay": 0.8,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
         "x": 3.0,
@@ -2454,7 +2454,7 @@
       },
       "PiercingBullets": false,
       "PiercingDamageCountLimit": 5,
-      "HipFireSpread": 3.0,
+      "HipFireSpread": 13.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.8,
       "EquipSequence": [

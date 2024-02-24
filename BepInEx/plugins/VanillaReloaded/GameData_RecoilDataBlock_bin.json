@@ -2462,21 +2462,21 @@
     },
     {
       "power": {
-        "Min": 1.5,
-        "Max": 2.0
+        "Min": 2.0,
+        "Max": 3.0
       },
       "spring": 2.0,
-      "dampening": 20.0,
-      "hipFireCrosshairSizeDefault": 100.0,
-      "hipFireCrosshairRecoilPop": 180.0,
-      "hipFireCrosshairSizeMax": 180.0,
+      "dampening": 9.0,
+      "hipFireCrosshairSizeDefault": 200.0,
+      "hipFireCrosshairRecoilPop": 250.0,
+      "hipFireCrosshairSizeMax": 300.0,
       "horizontalScale": {
-        "Min": 0.13,
-        "Max": 0.23
+        "Min": -0.5,
+        "Max": 0.5
       },
       "verticalScale": {
-        "Min": 0.7,
-        "Max": 0.8
+        "Min": 1.2,
+        "Max": 1.8
       },
       "directionalSimilarity": 0.0,
       "worldToViewSpaceBlendHorizontal": 0.02,

@@ -148,3 +148,11 @@ Updated to latest vanilla verion (34850).
 
 #### Sniper
 -   Kept VanillaReloaded changes
+
+### v1.1.6
+
+#### Sniper
+-   Bullet cost: 24 -> 22
+-   Shot delay: 0.5 -> 0.8
+-   Hip fire spread: 3.0 -> 13.0
+-   Increased recoil (to vanilla level)

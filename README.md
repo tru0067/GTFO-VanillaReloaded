@@ -283,16 +283,13 @@ Moved to Special Weapon category.
 
 ### Sniper
 
-*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted it back to its previous state (with a tiny ammo nerf to reduce its maximum capacity back to 12). This currently means that with the latest changes to how boss tumors behave, Sniper is extremely unbalanced against boss enemies. However, balancing its match-up against boss enemies while still feeling effective against Giants does not seem possible within the scope of this mod.*
+*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted its clip size back to 3 and reduced its ammo closer to its previous value, while keeping its new shot delay and reload.*
 
 -   Clip size: 2 -> 3
--   Bullet cost: 17.5 -> 24.0
-    -   Rounds/refill: 5.14 -> 3.75
-    -   Starting ammo: 8.57 -> 6.25
-    -   Maximum ammo (excluding clip): 13 -> 9
--   Shot delay: 0.8 -> 0.5
--   Hip fire spread: 13.0 -> 3.0
--   Recoil reduced (back to pre-R8 level)
+-   Bullet cost: 17.5 -> 22.0
+    -   Rounds/refill: 5.14 -> 4.09
+    -   Starting ammo: 8.57 -> 6.82
+    -   Maximum ammo (excluding clip): 13 -> 10
 
 ### HEL Rifle
 
