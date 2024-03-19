@@ -122,7 +122,7 @@ Updated to R8!
 Added website.
 
 ### v1.1.5
-Updated to latest vanilla verion (34850).
+Updated to latest vanilla version (34850).
 
 #### Burst Pistol
 -   Kept VanillaReloaded damage change
