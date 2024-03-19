@@ -156,3 +156,12 @@ Updated to latest vanilla verion (34850).
 -   Shot delay: 0.5 -> 0.8
 -   Hip fire spread: 3.0 -> 13.0
 -   Increased recoil (to vanilla level)
+
+#### Sledgehammer
+-   `CanHitMultipleEnemies`: `false` -> `true`
+
+#### Knife
+-   `CanHitMultipleEnemies`: `false` -> `true`
+
+#### Bat
+-   `CanHitMultipleEnemies`: `false` -> `true`
