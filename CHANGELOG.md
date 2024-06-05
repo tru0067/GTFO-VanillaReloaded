@@ -168,6 +168,9 @@ Updated to latest vanilla version (34850).
 
 ### v1.1.7
 
+#### Heavy Assault Rifle
+-   Bullet cost: 1.92 -> 1.66
+
 #### Machinegun (Arbalist)
 -   Damage: 5.35 -> 6.3
 -   Bullet cost: 1.595 -> 1.96
