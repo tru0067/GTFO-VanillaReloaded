@@ -390,7 +390,7 @@ Moved to Special Weapon category.
 ## Miscellaneous Changes
 
 -   Sledgehammer, Knife and Bat have had `CanHitMultipleEnemies` set to `true`. This allows them to double hit enemies with the hitscan check and first hitbox like Spear can.
-    -   This change has been made to prevent the annoying scenario of accidentally hitting an enemy with the fist hitbox rather than the one you're aiming at with the hitscan check.
+    -   This change has been made to prevent the annoying scenario of accidentally hitting an enemy with the first hitbox rather than the one you're aiming at with the hitscan check.
     -   This change has also been made because double hits are fun.
 
 ## Acknowledgements
