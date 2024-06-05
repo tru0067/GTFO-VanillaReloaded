@@ -168,5 +168,9 @@ Updated to latest vanilla version (34850).
 
 ### v1.1.7
 
+#### Machinegun (Arbalist)
+-   Damage: 5.35 -> 6.3
+-   Bullet cost: 1.595 -> 1.96
+
 #### HEL Gun
 -   Bullet cost: 5.74 -> 6.1

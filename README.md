@@ -251,7 +251,13 @@ Moved to Special Weapon category.
 
 ### Machinegun (Arbalist)
 
-*No changes.*
+*Despite being weapons that should be highly effective when bullet hosing, the Machineguns still struggle to compete with other waveclear weapons. We've increased their damage to bump them into the next breakpoint bracket and adjusted their ammo to compensate.*
+
+-   Damage: 5.35 -> 6.3
+-   Bullet cost: 1.595 -> 1.96
+    -   Rounds/refill: 56.43 -> 45.92
+    -   Starting ammo: 94.04 -> 76.53
+    -   Maximum ammo (excluding clip): 144 -> 117
 
 ### Machinegun (Varuta)
 
