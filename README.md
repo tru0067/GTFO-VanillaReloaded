@@ -271,7 +271,7 @@ Moved to Special Weapon category.
 
 ### Burst Cannon
 
-*The R8 rework of Burst Cannon into a 3-shot burst changed the weapon in many ways. While we will miss the raw power output of its 5-burst, it is much less polarizing and much more usable as a 3-burst. The only change that we have made is tweaking its clip size to a multiple of its burst.*
+*The R8 rework of Burst Cannon into a 3-shot burst changed the weapon in many ways. While we will miss the raw power output of its 5-burst, it is much less polarizing and much more usable as a 3-burst. The only change that we have made is tweaking its clip size to be a multiple of its burst.*
 
 -   Clip size: 20 -> 18
 
@@ -343,7 +343,7 @@ Moved to Special Weapon category.
 
 *The HEL Auto Sentry is currently in a poor spot, its targetting system causes it to miss a significant portions of its shots and its overpenetrating abilities are currently not functioning. While it could vastly improve by addressing these issues (which are beyond the scope of this mod), we still would like to see it shift into a more supportive role. Currently, it has a relatively high base DPS, and is incredibly tool hungry, we've slowed down its firerate substantially and given it some extra ammo, so that now it functions as more of a utility sentry - slowing down and chipping enemy waves without being a drain on the team's resources.*
 
--   Bullet cost: 10.0 -> 11.25
+-   Bullet cost: 0.7 -> 0.5
     -   Rounds/refill: 150.38 -> 210.53
     -   Starting ammo: 501.25 -> 701.75
     -   Maximum ammo: 751 -> 1052
