@@ -165,3 +165,8 @@ Updated to latest vanilla version (34850).
 
 #### Bat
 -   `CanHitMultipleEnemies`: `false` -> `true`
+
+### v1.1.7
+
+#### HEL Gun
+-   Bullet cost: 5.74 -> 6.1

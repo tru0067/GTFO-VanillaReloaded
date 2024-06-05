@@ -265,9 +265,13 @@ Moved to Special Weapon category.
 
 ### HEL Gun
 
-*The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies. Additionally, we've reverted some of the changes to its charge time to hopefully improve the responsiveness of the weapon.*
+*The HEL Gun is an extremely versatile weapon, being one of the best wave-clear options while also having a strong match up into larger enemies. We've swapped its damage with that of Revolver in order to slightly reduce its impact into larger enemy variants, while maintaining its power into smaller enemies. Additionally, we've reverted some of the changes to its charge time and ammo to hopefully improve the responsiveness of the weapon and give it a more reasonable ammo profile.*
 
 -   Damage: 16.25 -> 14.21
+-   Bullet cost: 5.74 -> 6.1
+    -   Rounds/refill: 15.68 -> 14.75
+    -   Starting ammo: 26.13 -> 24.59
+    -   Maximum ammo (excluding clip): 40 -> 37
 -   Charge time: 0.2 -> 0.15
 
 ### High Caliber Pistol
