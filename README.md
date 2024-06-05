@@ -261,7 +261,13 @@ Moved to Special Weapon category.
 
 ### Machinegun (Varuta)
 
-*No changes.*
+*Despite being weapons that should be highly effective when bullet hosing, the Machineguns still struggle to compete with other waveclear weapons. We've increased their damage to bump them into the next breakpoint bracket and adjusted their ammo to compensate.*
+
+-   Damage: 3.51 -> 4.05
+-   Bullet cost: 1.15 -> 1.26
+    -   Rounds/refill: 78.26 -> 71.43
+    -   Starting ammo: 130.43 -> 119.05
+    -   Maximum ammo (excluding clip): 200 -> 182
 
 ### Burst Cannon
 

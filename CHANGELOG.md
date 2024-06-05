@@ -172,5 +172,9 @@ Updated to latest vanilla version (34850).
 -   Damage: 5.35 -> 6.3
 -   Bullet cost: 1.595 -> 1.96
 
+#### Machinegun (Varuta)
+-   Damage: 3.51 -> 4.05
+-   Bullet cost: 1.15 -> 1.26
+
 #### HEL Gun
 -   Bullet cost: 5.74 -> 6.1
