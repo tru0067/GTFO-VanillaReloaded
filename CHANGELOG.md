@@ -175,7 +175,7 @@ Updated to latest vanilla version (34850).
 -   Damage: 5.35 -> 6.3
 -   Bullet cost: 1.595 -> 1.96
 
-#### Machinegun (Varuta)
+#### Machinegun (Veruta)
 -   Damage: 3.51 -> 4.05
 -   Bullet cost: 1.15 -> 1.26
 

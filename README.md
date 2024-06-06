@@ -263,7 +263,7 @@ Moved to Special Weapon category.
     -   Starting ammo: 94.04 -> 76.53
     -   Maximum ammo (excluding clip): 144 -> 117
 
-### Machinegun (Varuta)
+### Machinegun (Veruta)
 
 *Despite being weapons that should be highly effective when bullet hosing, the Machineguns still struggle to compete with other waveclear weapons. We've increased their damage to bump them into the next breakpoint bracket and adjusted their ammo to compensate.*
 
