@@ -181,3 +181,10 @@ Updated to latest vanilla version (34850).
 
 #### HEL Gun
 -   Bullet cost: 5.74 -> 6.1
+
+### v1.1.8
+
+#### HEL Revolver
+-   Clip size: 6 -> 8
+-   Bullet cost: 5.6 -> 6.0
+-   Piercing: 3 -> 2

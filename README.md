@@ -49,14 +49,12 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### HEL Revolver
 
-*HEL Revolver was definitely overperforming at high level play. The main attraction of this weapon was its insane uptime with reload cancel, incredibly good ammo efficiency and an incredibly fast time to kill, to the point that the overpenetrating qualities just became icing on the cake. We've leaned in to the overpenetrating qualities, while toning down some other aspects of the weapon.*
+*HEL Revolver was definitely overperforming at high level play. The main attraction of this weapon was its insane uptime with reload cancel, incredibly good ammo efficiency and an incredibly fast time to kill, to the point that the overpenetrating qualities just became icing on the cake. We've substantially toned down the ammo efficiency of the weapon, encouraging players to lean into its overpenetrating capabilities in order to get good value.*
 
--   Clip size: 8 -> 6
--   Bullet cost: 5.0 -> 5.6
-    -   Rounds/refill: 18.0 -> 16.07
-    -   Starting ammo: 60.0 -> 53.57
-    -   Maximum ammo (excluding clip): 92 -> 82
--   Piercing (number of enemies that can be hit with a single shot): 2 -> 3
+-   Bullet cost: 5.0 -> 6.0
+    -   Rounds/refill: 18.0 -> 15.0
+    -   Starting ammo: 60.0 -> 50.0
+    -   Maximum ammo (excluding clip): 92 -> 76
 
 ### Machine Pistol
 
