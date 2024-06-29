@@ -4328,10 +4328,10 @@
       "FireMode": 2,
       "RecoilDataID": 19,
       "DamageBoosterEffect": 63,
-      "Damage": 1.9,
+      "Damage": 2.2,
       "DamageFalloff": {
-        "x": 7.0,
-        "y": 35.0,
+        "x": 3.0,
+        "y": 40.0,
         "normalized": {
           "x": 0.19611612,
           "y": 0.9805806,

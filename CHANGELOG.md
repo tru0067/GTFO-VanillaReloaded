@@ -188,3 +188,8 @@ Updated to latest vanilla version (34850).
 -   Clip size: 6 -> 8
 -   Bullet cost: 5.6 -> 6.0
 -   Piercing: 3 -> 2
+
+#### Machine Pistol
+-   Damage: 1.9 -> 2.2
+-   Falloff start: 7 -> 3
+-   Falloff end: 35 -> 40

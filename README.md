@@ -58,7 +58,11 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Machine Pistol
 
-*The Machine Pistol already has some impressive stats, and it is capable of being very effective up close. We opted not to make any changes to Machine Pistol, as we believe it was largely being overshadowed by weapons such as the Carbine and HEL Shotgun, and the nerfs to those weapons will hopefully allow the Machine Pistol to shine as an effective short-range option.*
+*The Machine Pistol already has some fairly impressive stats, we opted to give it a slight damage bonus, while also tweaking its falloff, so that it has a similar damage profile at range but can be even more devestating up close.*
+
+-   Damage: 1.9 -> 2.2
+-   Falloff start: 7 -> 3
+-   Falloff end: 35 -> 40
 
 ### HEL Autopistol
 
