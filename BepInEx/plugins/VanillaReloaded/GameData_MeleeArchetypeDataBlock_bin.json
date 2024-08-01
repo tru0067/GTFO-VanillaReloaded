@@ -136,8 +136,8 @@
         "resetRestingTimerOutOfCombat": false
       },
       "PushStaminaCost": {
-        "baseStaminaCostInCombat": 0.05,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.0,
+        "baseStaminaCostOutOfCombat": 0.0,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },

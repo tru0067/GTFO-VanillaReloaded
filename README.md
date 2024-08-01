@@ -28,7 +28,8 @@ Breakpoints affected: Bat will now be able to kill a Striker with a light attack
 Breakpoints affected: Spear will now be able to kill a Striker with a fully charged attack to the body and a light attack to the body. Spear will now be able to kill a Shooter with a light attack to the occiput.
 
 -   Light attack damage: 2.0 -> 2.5
--   Charged stamina cost: 5% -> 0%
+-   Charged attack stamina cost: 5% -> 0%
+-   Shove stamina cost: 5% -> 0%
 -   Max damage charge time: 1.8 -> 1.5
 
 ### Pistol

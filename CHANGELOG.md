@@ -193,3 +193,8 @@ Updated to latest vanilla version (34850).
 -   Damage: 1.9 -> 2.2
 -   Falloff start: 7 -> 3
 -   Falloff end: 35 -> 40
+
+### v1.1.9
+
+#### Spear
+-   Shove stamina cost: 5% -> 0%
