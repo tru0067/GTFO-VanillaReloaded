@@ -233,14 +233,14 @@ Moved to Special Weapon category.
 
 ### Scattergun
 
-*The Scattergun disproportionately trivializes most boss enemies. We've toned down its damage and precision multiplier to reduce its power in these encounters, and have also increased its bullet cost so that it requires more thoughtful use.*
+*The Scattergun disproportionately trivializes most boss enemies. We've toned down its damage and added a tumor multiplier to reduce its power in these encounters, and have also increased its bullet cost so that it requires more thoughtful use.*
 
 -   Damage: 153.6 -> 128.32 (damage per pellet: 4.8 -> 4.01)
--   Precision multiplier: 0.7333 -> 0.67
 -   Bullet cost: 16.3 -> 20.0
     -   Rounds/refill: 5.52 -> 4.50
     -   Starting ammo: 9.20 -> 7.50
     -   Maximum ammo (excluding clip): 14 -> 11
+-   Tumor multiplier: 1.0 -> 0.75
 
 ### Choke Mod Shotgun
 

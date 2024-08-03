@@ -1,5 +1,15 @@
 [
     {
+        "ArchetypeID": 72,
+        "Name": "Scattergun",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 0.75
+            }
+        ]
+    },
+    {
         "ArchetypeID": 65,
         "Name": "HEL Rifle",
         "Properties": [
