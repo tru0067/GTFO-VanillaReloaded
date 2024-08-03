@@ -201,3 +201,20 @@ Updated to latest vanilla version (34850).
 
 #### Sawed-Off Shotgun
 -   Clipsize: 4 -> 3
+
+### v1.2.0
+Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
+
+#### Scattergun
+-   Precision multiplier: 0.67 -> 0.7333
+-   Tumor multiplier: 1.0 -> 0.75
+
+#### Choke Mod Shotgun
+-   Tumor multiplier: 1.0 -> 0.75
+
+#### Precision Rifle
+-   Precision multiplier: 1.5 -> 2.15
+-   Tumor multiplier: 1.0 -> 0.7
+
+#### HEL Rifle
+-   Pierce multiplier: 1.0 -> 0.85
