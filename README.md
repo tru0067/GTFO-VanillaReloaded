@@ -320,10 +320,13 @@ Moved to Special Weapon category.
 
 *With such a high amount of potential piercing, the HEL Rifle is able to achieve absurd efficiencies. We've toned down its ammo statistics to be more reasonable.*
 
+*We've additionally added a *piercing multiplier*, which reduces the damage each time a shot pierces. We've picked this multiplier such that you can still kill 3 Strikers with a single shot, but only kill a Shooter or Charger if it is the first enemy hit. Additionally, when piercing enemies like Giants the further enemy will now require some follow-up damage after 4 shots.*
+
 -   Bullet cost: 10.0 -> 11.25
     -   Rounds/refill: 9.0 -> 8.0
     -   Starting ammo: 15.0 -> 13.33
     -   Maximum ammo (excluding clip): 23 -> 20
+-   Pierce multiplier: 1.0 -> 0.85
 
 ### Bio Tracker
 
