@@ -302,10 +302,11 @@ Moved to Special Weapon category.
 
 ### Precision Rifle
 
-*Its recent buffs made the Precision Rifle much more viable, though its clip size reduction in R8 was not needed. We've reverted its clip size back to 12, and the only other change we've made is to increase its precision multiplier, this should make headshots much more impactful against Giant Shooters and Hybrids, while also slightly increasing its one-shot range on Scouts. This change also improves its match-up against boss enemies, though only slightly. The only other changes we would have liked to make would be to its thermal scope - moderately increasing the distance it can see through fog, as well as allowing it to see enemy projectiles. This would dramatically improve its usability against Shooters as well as Hybrids, both matchups where it should excel, but the inability to play around the enemy's attacks significantly hamper it.*
+*Its recent buffs made the Precision Rifle much more viable, though its clip size reduction in R8 was not needed and so we've reverted it back to 12. The only other change we've made is to substantially increase its precision multiplier, this should make headshots much more impactful against Giant Shooters and Hybrids, while also slightly increasing its one-shot range on Scouts. In order to keep its match-up against boss enemies reasonable we've also added a tumor multiplier. The net result is a slight improvement in its boss damage. The only other changes we would have liked to make would be to its thermal scope - moderately increasing the distance it can see through fog, as well as allowing it to see enemy projectiles. This would dramatically improve its usability against Shooters as well as Hybrids, both matchups where it should excel, but the inability to play around the enemy's attacks significantly hamper it.*
 
--   Precision multiplier: 1.3 -> 1.5
+-   Precision multiplier: 1.3 -> 2.15
 -   Clip size: 10 -> 12
+-   Tumor multiplier: 1.0 -> 0.7
 
 ### Sniper
 

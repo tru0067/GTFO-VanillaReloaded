@@ -20,6 +20,16 @@
         ]
     },
     {
+        "ArchetypeID": 79,
+        "Name": "Precision Rifle",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 0.7
+            }
+        ]
+    },
+    {
         "ArchetypeID": 65,
         "Name": "HEL Rifle",
         "Properties": [
