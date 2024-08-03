@@ -155,7 +155,9 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Sawed-Off Shotgun
 
-*The Sawed-Off Shotgun sits in a very strange place. On the one hand, its damage per shot and fire rate give it unrivalled burst damage for a main weapon, however, its small clip size and relatively long reload often leaves players in vulnerable positions when they are in the close ranges that the Sawed-Off prefers. However, the recent patches have already done a good job of improving its consistency and uptime and as a result we have made no further changes.*
+*The combination of reduced reload and a clipsize of 4 which the last patches gave Sawed-Off has resulted in the weapon being incredibly potent, having insane burst damage as well as a respectable uptime. We've reduced its clipsize back down to 3 to give the weapon more notable weaknesses.*
+
+-   Clipsize: 4 -> 3
 
 ### HEL Shotgun
 

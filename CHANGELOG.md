@@ -198,3 +198,6 @@ Updated to latest vanilla version (34850).
 
 #### Spear
 -   Shove stamina cost: 5% -> 0%
+
+#### Sawed-Off Shotgun
+-   Clipsize: 4 -> 3
