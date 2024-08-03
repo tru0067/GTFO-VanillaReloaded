@@ -10,6 +10,16 @@
         ]
     },
     {
+        "ArchetypeID": 34,
+        "Name": "Choke Mod",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 0.75
+            }
+        ]
+    },
+    {
         "ArchetypeID": 65,
         "Name": "HEL Rifle",
         "Properties": [

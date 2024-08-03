@@ -244,12 +244,13 @@ Moved to Special Weapon category.
 
 ### Choke Mod Shotgun
 
-*The Choke Mod Shotgun sits in an awkward spot, it currently feels substantially overshadowed by its other competitors in the 30 damage tier. It is noticeably outranged by the HEL Rifle, and lacks it overpenetrating utility, and it has less ammo than the High Caliber Pistol. The only advantage it has over these two weapons is its rate of fire, which should aid it substantially against bosses, but even then it still feels underwhelming due to its relatively small damage per clip. We've made some substantial changes to it, dramatically increasing its damage but also its spread. This opens up the possibility for it to spread its damage over multiple enemies, and should also substantially improve its power against bosses.*
+*The Choke Mod Shotgun sits in an awkward spot, it currently feels substantially overshadowed by its other competitors in the 30 damage tier. It is noticeably outranged by the HEL Rifle, and lacks it overpenetrating utility, and it has less ammo than the High Caliber Pistol. The only advantage it has over these two weapons is its rate of fire but even that still feels underwhelming due to its relatively small clipsize. We've made some substantial changes to it, dramatically increasing its damage but also its spread, opening up the possibility for it to spread its damage over multiple enemies. In order to keep its match-up against boss enemies unchanged we're also added a tumor multiplier.*
 
 -   Damage: 30.08 -> 40.1
 -   Reload time: 2.72 -> 2.5
 -   Pellet count: 8 -> 10 (damage per pellet: 3.76 -> 4.01)
 -   Cone size: 0 -> 2
+-   Tumor multiplier: 1.0 -> 0.75
 
 ### Revolver
 
