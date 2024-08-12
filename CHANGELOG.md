@@ -218,3 +218,9 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 
 #### HEL Rifle
 -   Pierce multiplier: 1.0 -> 0.85
+
+### v1.2.1
+
+#### HEL Autopistol
+-   Damage: 1.21 -> 1.5
+-   Bullet cost: 0.9 -> 1.0

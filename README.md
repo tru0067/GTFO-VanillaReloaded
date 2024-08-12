@@ -69,13 +69,7 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### HEL Autopistol
 
-*The R8 buffs gave HEL Autopistol a huge damage boost, to the point that it easily competed with weapons which did not have its incredible utility in crowd control. We've toned down its damage to reinforce its role as a stagger weapon, while increasing its ammo to compensate.*
-
--   Damage: 1.5 -> 1.21
--   Bullet cost: 1.0 -> 0.9
-    -   Rounds/refill: 90.0 -> 100.0
-    -   Starting ammo: 300.0 -> 333.33
-    -   Maximum ammo (excluding clip): 460 -> 511
+*The R8 buffs to HEL Autopistol's damage ended up not being as big of an issue as expected. While in the base game its damage nearly competes with some other automatic weapons, given that we've massively buffed most other automatics we feel happy leaving HEL Autopistol's damage untouched.*
 
 ### Bullpup Rifle
 
