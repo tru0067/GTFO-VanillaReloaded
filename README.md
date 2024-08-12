@@ -168,6 +168,8 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Slug Shotgun
 
+*Slug Shotgun has decent stats and a valuable 20 damage breakpoint, but just suffers in a few too many areas to truly shine. We've given it a little bit more range, a little bit more ammo and a little bit more fire-rate.*
+
 -   Falloff end: 40 -> 50
 -   Bullet cost: 12.0 -> 11.5
     -   Rounds/refill: 7.50 -> 7.83
