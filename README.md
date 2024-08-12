@@ -2,7 +2,7 @@
 
 Vanilla Reloaded is a weapon balance mod that aims to rebalance the game's existing arsenal into a more interesting state. The goal is not to drastically alter the existing weapon balance, but instead to tone down some weapons that have become overcentralizing, while buffing some weapons that are currently underperforming. In some cases, weapons have been changed to emphasize what makes them unique from the rest of the cast, further diversifying the options available to the player.
 
-## Changes
+## Melees
 
 ### Sledgehammer
 
@@ -31,6 +31,8 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 -   Charged attack stamina cost: 5% -> 0%
 -   Shove stamina cost: 5% -> 0%
 -   Max damage charge time: 1.8 -> 1.5
+
+## Main Weapons
 
 ### Pistol
 
@@ -176,6 +178,8 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
     -   Starting ammo: 25.00 -> 26.09
     -   Maximum ammo (excluding clip): 38 -> 40
 -   Shot delay: 0.75 -> 0.65
+
+## Special Weapons
 
 ### Heavy Assault Rifle
 
@@ -331,6 +335,8 @@ Moved to Special Weapon category.
     -   Starting ammo: 15.0 -> 13.33
     -   Maximum ammo (excluding clip): 23 -> 20
 -   Pierce multiplier: 1.0 -> 0.85
+
+## Tools
 
 ### Bio Tracker
 
