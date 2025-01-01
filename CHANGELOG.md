@@ -224,3 +224,7 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 #### HEL Autopistol
 -   Damage: 1.21 -> 1.5
 -   Bullet cost: 0.9 -> 1.0
+
+#### High Cal Pistol
+-   Damage: 30.1 -> 31.7
+-   Falloff start: 8 -> 5

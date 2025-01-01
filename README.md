@@ -298,7 +298,10 @@ Moved to Special Weapon category.
 
 ### High Caliber Pistol
 
-*With our changes to Choke Mod Shotgun as well as HEL Rifle, we felt that the High Caliber Pistol sat in a good spot. Due to the Choke Mod Shotgun changes, it is now much more distinct from that weapon, and the HEL Rifle's ammo changes also provide a bit more room for the High Caliber Pistol to find play.*
+*With our changes to Choke Mod Shotgun as well as HEL Rifle, we felt that the High Caliber Pistol sat in a good spot. The only change we've made is a slight bump in damage along with a corresponding decrease to its falloff start. This will ensure that the weapon has an almost identical damage profile at range, but will now be able to close the distance to consistently 4-shot Giants.*
+
+-   Damage: 30.1 -> 31.7
+-   Falloff start: 8 -> 5
 
 ### Precision Rifle
 
