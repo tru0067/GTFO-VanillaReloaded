@@ -218,6 +218,7 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 -   Pierce multiplier: 1.0 -> 0.85
 
 ### v1.3.0
+Despite the significant buffs, autos were found to be performing worse than expected. We've had a second look at every weapon, most autos have received further buffs and some other weapons have received minor changes.
 
 #### HEL Autopistol
 -   Damage: 1.21 -> 1.5
