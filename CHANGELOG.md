@@ -8,14 +8,12 @@ Initial release!
 -   Charged sleeping multiplier: 2.0 -> 1.5
 
 #### Heavy Assault Rifle
--   Reduced recoil
-    -   Minimum power: 0.8 -> 0.7
-    -   Maximum power: 1.3 -> 1.0
+-   Recoil minimum power: 0.8 -> 0.7
+-   Recoil maximum power: 1.3 -> 1.0
 
 #### Burst Cannon
--   Slightly increased recoil
-    -   Minimum power: 0.45 -> 0.5
-    -   Maximum power: 0.75 -> 0.8
+-   Recoil minimum power: 0.45 -> 0.5
+-   Recoil maximum power: 0.75 -> 0.8
 
 ### v1.1.0
 
@@ -224,6 +222,10 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 #### HEL Autopistol
 -   Damage: 1.21 -> 1.5
 -   Bullet cost: 0.9 -> 1.0
+
+#### Heavy Assault Rifle
+-   Bullet cost: 1.66 -> 1.53
+-   Recoil maximum power: 1.0 -> 0.9
 
 #### High Cal Pistol
 -   Damage: 30.1 -> 31.7

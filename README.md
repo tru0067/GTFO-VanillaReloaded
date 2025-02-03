@@ -181,13 +181,13 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 -   Falloff start: 12.0 -> 20.0
 -   Precision multiplier: 0.8 -> 0.9
--   Bullet cost: 1.92 -> 1.66
-    -   Rounds/refill: 46.88 -> 54.22
-    -   Starting ammo: 78.13 -> 90.36
-    -   Maximum ammo (excluding clip): 119 -> 138
+-   Bullet cost: 1.92 -> 1.53
+    -   Rounds/refill: 46.88 -> 58.82
+    -   Starting ammo: 78.13 -> 98.04
+    -   Maximum ammo (excluding clip): 119 -> 150
 -   Reduced recoil
     -   Minimum power: 0.8 -> 0.7 (pre-R7 was 0.625)
-    -   Maximum power: 1.3 -> 1.0 (pre-R7 was 0.75)
+    -   Maximum power: 1.3 -> 0.9 (pre-R7 was 0.75)
 
 ### Short Rifle
 
