@@ -219,7 +219,7 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 #### HEL Rifle
 -   Pierce multiplier: 1.0 -> 0.85
 
-### v1.2.1
+### v1.3.0
 
 #### HEL Autopistol
 -   Damage: 1.21 -> 1.5
@@ -228,3 +228,6 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 #### High Cal Pistol
 -   Damage: 30.1 -> 31.7
 -   Falloff start: 8 -> 5
+
+#### Sniper
+-   Bullet cost: 22.0 -> 20.0
