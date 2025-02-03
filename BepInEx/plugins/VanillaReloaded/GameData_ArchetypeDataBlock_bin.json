@@ -1626,7 +1626,7 @@
       "FireMode": 2,
       "RecoilDataID": 25,
       "DamageBoosterEffect": 62,
-      "Damage": 6.3,
+      "Damage": 6.51,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,
@@ -1643,7 +1643,7 @@
       "PrecisionDamageMulti": 0.7413,
       "DefaultClipSize": 40,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 1.96,
+      "CostOfBullet": 1.595,
       "ShotDelay": 0.13,
       "ShellCasingSize": 1.5,
       "ShellCasingSpeedRange": {
@@ -1723,7 +1723,7 @@
       "FireMode": 2,
       "RecoilDataID": 34,
       "DamageBoosterEffect": 62,
-      "Damage": 4.05,
+      "Damage": 4.31,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,
@@ -1740,7 +1740,7 @@
       "PrecisionDamageMulti": 0.7413,
       "DefaultClipSize": 60,
       "DefaultReloadTime": 4.0,
-      "CostOfBullet": 1.26,
+      "CostOfBullet": 1.15,
       "ShotDelay": 0.08,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {

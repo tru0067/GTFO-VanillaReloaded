@@ -261,23 +261,15 @@ Moved to Special Weapon category.
 
 ### Machinegun (Arbalist)
 
-*Despite being weapons that should be highly effective when bullet hosing, the Machineguns still struggle to compete with other waveclear weapons. We've increased their damage to bump them into the next breakpoint bracket and adjusted their ammo to compensate.*
+*Despite being the more controlled version of the Machinegun, Arbalist still struggles to be efficient against most enemies, and greatly loses out on effectiveness in chaotic scenarios. We've increased its damage to give it a new 1+1 breakpoint against Strikers which should enable it to find play as a hyper efficient option when used in a controlled way, while also slightly increasing its effectiveness in other situations as well.*
 
--   Damage: 5.35 -> 6.3
--   Bullet cost: 1.595 -> 1.96
-    -   Rounds/refill: 56.43 -> 45.92
-    -   Starting ammo: 94.04 -> 76.53
-    -   Maximum ammo (excluding clip): 144 -> 117
+-   Damage: 5.35 -> 6.51
 
 ### Machinegun (Veruta)
 
-*Despite being weapons that should be highly effective when bullet hosing, the Machineguns still struggle to compete with other waveclear weapons. We've increased their damage to bump them into the next breakpoint bracket and adjusted their ammo to compensate.*
+*Despite being a weapon that should be highly effective when bullet hosing, Veruta still struggles to compete with other waveclear weapons. We've increased its damage to bump it into the next breakpoint brackets.*
 
--   Damage: 3.51 -> 4.05
--   Bullet cost: 1.15 -> 1.26
-    -   Rounds/refill: 78.26 -> 71.43
-    -   Starting ammo: 130.43 -> 119.05
-    -   Maximum ammo (excluding clip): 200 -> 182
+-   Damage: 3.51 -> 4.31
 
 ### Burst Cannon
 

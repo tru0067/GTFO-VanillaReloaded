@@ -227,6 +227,14 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 -   Bullet cost: 1.66 -> 1.53
 -   Recoil maximum power: 1.0 -> 0.9
 
+#### Machinegun (Arbalist)
+-   Damage: 6.3 -> 6.51
+-   Bullet cost: 1.96 -> 1.595
+
+#### Machinegun (Veruta)
+-   Damage: 4.05 -> 4.31
+-   Bullet cost: 1.26 -> 1.15
+
 #### High Cal Pistol
 -   Damage: 30.1 -> 31.7
 -   Falloff start: 8 -> 5
