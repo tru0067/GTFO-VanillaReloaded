@@ -226,7 +226,8 @@ Despite the significant buffs, autos were found to be performing worse than expe
 
 #### Heavy Assault Rifle
 -   Bullet cost: 1.66 -> 1.53
--   Recoil maximum power: 1.0 -> 0.9
+-   Recoil minimum power: 0.7 -> 0.625
+-   Recoil maximum power: 1.0 -> 0.75
 
 #### Machinegun (Arbalist)
 -   Damage: 6.3 -> 6.51

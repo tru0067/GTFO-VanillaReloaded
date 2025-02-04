@@ -177,7 +177,7 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Heavy Assault Rifle
 
-*As part of our changes to many of the automatic weapons, we've slightly increased the precision multiplier of the Heavy Assault Rifle in order to reward player accuracy slightly more. While this doesn't change many breakpoints for this weapon, it'll hopefully still make it so that headshots feel more impactful while in team scenarios. We've additionally increased the falloff start range to be slightly higher than the machineguns that Heavy Assault Rifle directly competes with, as well as bumped up its ammo slightly.*
+*As part of our changes to many of the automatic weapons, we've slightly increased the precision multiplier of the Heavy Assault Rifle in order to reward player accuracy slightly more. While this doesn't change many breakpoints for this weapon, it'll hopefully still make it so that headshots feel more impactful while in team scenarios. We've additionally increased the falloff start range to be slightly higher than the machineguns that Heavy Assault Rifle directly competes with, bumped its ammo significantly and given it its old recoil.*
 
 -   Falloff start: 12.0 -> 20.0
 -   Precision multiplier: 0.8 -> 0.9
@@ -186,8 +186,8 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
     -   Starting ammo: 78.13 -> 98.04
     -   Maximum ammo (excluding clip): 119 -> 150
 -   Reduced recoil
-    -   Minimum power: 0.8 -> 0.7 (pre-R7 was 0.625)
-    -   Maximum power: 1.3 -> 0.9 (pre-R7 was 0.75)
+    -   Minimum power: 0.8 -> 0.625
+    -   Maximum power: 1.3 -> 0.75
 
 ### Short Rifle
 
