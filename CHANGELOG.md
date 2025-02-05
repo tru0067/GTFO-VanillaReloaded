@@ -225,6 +225,7 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Bullet cost: 0.9 -> 1.0
 
 #### Heavy Assault Rifle
+-   Damage: 5.01 -> 5.4
 -   Bullet cost: 1.66 -> 1.53
 -   Recoil minimum power: 0.7 -> 0.625
 -   Recoil maximum power: 1.0 -> 0.75
