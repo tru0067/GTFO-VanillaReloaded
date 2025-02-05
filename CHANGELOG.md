@@ -230,6 +230,10 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Recoil minimum power: 0.7 -> 0.625
 -   Recoil maximum power: 1.0 -> 0.75
 
+#### Heavy SMG
+-   Clip size: 44 -> 45
+-   Bullet cost: 1.2 -> 1.15
+
 #### Machinegun (Arbalist)
 -   Damage: 6.3 -> 6.51
 -   Bullet cost: 1.96 -> 1.595

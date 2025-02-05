@@ -212,11 +212,11 @@ Moved to Special Weapon category.
 *The Main Weapon category was incredibly over-filled with automatic weapons, so we have moved the Heavy SMG to the Special Weapon category. As a result, it has received a large overhaul to its stats.*
 
 -   Damage: 2.45 -> 3.25
--   Clipsize: 33 -> 44
--   Bullet cost: 1.5 -> 1.2
-    -   Rounds/refill: 60.00 -> 75.00
-    -   Starting ammo: 200.00 -> 125.00
-    -   Maximum ammo (excluding clip): 306 -> 191
+-   Clipsize: 33 -> 45
+-   Bullet cost: 1.5 -> 1.15
+    -   Rounds/refill: 60.00 -> 78.26
+    -   Starting ammo: 200.00 -> 130.43
+    -   Maximum ammo (excluding clip): 306 -> 200
 -   Shot delay: 0.078 -> 0.054
 
 ### Shotgun
