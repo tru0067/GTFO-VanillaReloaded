@@ -243,3 +243,6 @@ Despite the significant buffs, autos were found to be performing worse than expe
 
 #### Sniper
 -   Bullet cost: 22.0 -> 20.0
+
+#### HEL Auto Sentry
+-   Bullet cost: 0.5 -> 0.526
