@@ -5407,7 +5407,7 @@
       "FireMode": 0,
       "RecoilDataID": 6,
       "DamageBoosterEffect": 103,
-      "Damage": 1.51,
+      "Damage": 2.01,
       "DamageFalloff": {
         "x": 4.0,
         "y": 40.0,
@@ -5424,7 +5424,7 @@
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 10,
       "DefaultReloadTime": 3.0,
-      "CostOfBullet": 0.8,
+      "CostOfBullet": 0.87,
       "ShotDelay": 0.8,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -5493,7 +5493,7 @@
       "Sentry_RotationSpeedTagMulti": 1.0,
       "Sentry_DamageTagMulti": 1.0,
       "Sentry_StaggerDamageTagMulti": 1.0,
-      "Sentry_CostOfBulletTagMulti": 0.75,
+      "Sentry_CostOfBulletTagMulti": 0.8,
       "Sentry_ShotDelayTagMulti": 0.9,
       "name": "GEAR_SentryGun_Shotgun_Semi",
       "internalEnabled": true,

@@ -246,3 +246,8 @@ Despite the significant buffs, autos were found to be performing worse than expe
 
 #### HEL Auto Sentry
 -   Bullet cost: 0.5 -> 0.526
+
+#### Shotgun Sentry
+-   Damage: 15.1 -> 20.1
+-   Bullet cost: 0.8 -> 0.87
+-   Bio-symbiosis bullet cost multiplier: 0.75 -> 0.8
