@@ -250,7 +250,7 @@ Moved to Special Weapon category.
 -   Damage: 30.08 -> 40.1
 -   Reload time: 2.72 -> 2.5
 -   Pellet count: 8 -> 10 (damage per pellet: 3.76 -> 4.01)
--   Cone size: 0 -> 2
+-   Cone size: 0 -> 1
 -   Tumor multiplier: 1.0 -> 0.75
 
 ### Revolver

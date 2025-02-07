@@ -234,6 +234,9 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Clip size: 44 -> 45
 -   Bullet cost: 1.2 -> 1.15
 
+#### Choke Mod Shotgun
+-   Cone size: 2 -> 1
+
 #### Machinegun (Arbalist)
 -   Damage: 6.3 -> 6.51
 -   Bullet cost: 1.96 -> 1.595

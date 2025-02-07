@@ -3158,7 +3158,7 @@
       "BurstDelay": 0.01,
       "BurstShotCount": 1,
       "ShotgunBulletCount": 10,
-      "ShotgunConeSize": 2,
+      "ShotgunConeSize": 1,
       "ShotgunBulletSpread": 1,
       "SpecialChargetupTime": 0.0,
       "SpecialCooldownTime": 0.0,
