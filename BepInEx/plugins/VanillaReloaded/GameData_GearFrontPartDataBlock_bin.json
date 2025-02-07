@@ -1024,12 +1024,12 @@
           "StringData": "show"
         },
         {
-          "TriggerTime": 1.66,
+          "TriggerTime": 1.5,
           "Type": 5,
           "StringData": "CARBINE_RELOAD_2_MAG_IN"
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 1.5,
           "Type": 6
         },
         {

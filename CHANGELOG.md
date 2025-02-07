@@ -224,6 +224,9 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 1.21 -> 1.5
 -   Bullet cost: 0.9 -> 1.0
 
+#### Rifle
+-   Reload cancel: 1.41 -> 1.06
+
 #### Heavy Assault Rifle
 -   Damage: 5.01 -> 5.4
 -   Bullet cost: 1.66 -> 1.53
