@@ -307,13 +307,14 @@ Moved to Special Weapon category.
 
 ### Sniper
 
-*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted its clip size back to 3 and reduced its ammo closer to its previous value, while keeping its new shot delay and reload.*
+*The R8 nerfs to Sniper were extremely drastic and massively impaired the weapon's usability. We've reverted its clip size back to 3, returned its old reload and reduced its ammo closer to its previous value, while keeping its new shot delay and recoil.*
 
 -   Clip size: 2 -> 3
 -   Bullet cost: 17.5 -> 20.0
     -   Rounds/refill: 5.14 -> 4.50
     -   Starting ammo: 8.57 -> 7.50
     -   Maximum ammo (excluding clip): 13 -> 11
+-   Reload cancel: 2.90 -> 2.41
 
 ### HEL Rifle
 

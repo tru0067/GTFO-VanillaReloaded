@@ -1472,26 +1472,26 @@
           "StringData": "generic_reload_foley_quick"
         },
         {
-          "TriggerTime": 1.95,
+          "TriggerTime": 1.7,
           "Type": 5,
           "StringData": "carbine_mag_bump"
         },
         {
-          "TriggerTime": 2.4,
+          "TriggerTime": 2.0,
           "Type": 5,
           "StringData": "cannon_reload_mag_in"
         },
         {
-          "TriggerTime": 2.4,
+          "TriggerTime": 2.0,
           "Type": 6
         },
         {
-          "TriggerTime": 2.6,
+          "TriggerTime": 2.2,
           "Type": 5,
           "StringData": "cannon_reload_foley_move"
         },
         {
-          "TriggerTime": 2.7,
+          "TriggerTime": 2.6,
           "Type": 5,
           "StringData": "generic_reload_grab_heavy_weapon"
         },

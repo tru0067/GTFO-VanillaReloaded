@@ -254,6 +254,7 @@ Despite the significant buffs, autos were found to be performing worse than expe
 
 #### Sniper
 -   Bullet cost: 22.0 -> 20.0
+-   Reload cancel: 2.90 -> 2.41
 
 #### HEL Auto Sentry
 -   Bullet cost: 0.5 -> 0.526
