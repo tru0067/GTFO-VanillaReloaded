@@ -115,12 +115,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Double Tap Rifle
 
-*We've found the Double Tap Rifle to be a generally well-rounded weapon, which already has a fun avenue for skill expression through its one-burst on Strikers. We've slightly buffed its ammo pool to give this playstyle a more significant reward.*
+*We've found the Double Tap Rifle to be a generally well-rounded weapon, which already has a fun avenue for skill expression through its one-burst on Strikers. We've slightly buffed its damage to improve its match-up against more diverse enemies.*
 
--   Bullet cost: 3.8 -> 3.6
-    -   Rounds/refill: 23.68 -> 25.0
-    -   Starting ammo: 78.95 -> 83.33
-    -   Maximum ammo (excluding clip): 121 -> 127
+-   Damage: 5.51 -> 6.67
+-   Precision multiplier: 0.9 -> 0.89
 
 ### Assault Rifle
 

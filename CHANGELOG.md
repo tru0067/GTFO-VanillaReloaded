@@ -224,6 +224,11 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 1.21 -> 1.5
 -   Bullet cost: 0.9 -> 1.0
 
+#### Double Tap Rifle
+-   Damage: 5.51 -> 6.67
+-   Precision multiplier: 0.9 -> 0.89
+-   Bullet cost: 3.6 -> 3.8
+
 #### Rifle
 -   Reload cancel: 1.41 -> 1.06
 
