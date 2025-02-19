@@ -36,7 +36,10 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Pistol
 
-*The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on Strikers, but the recent patches have already addressed this.*
+*The Pistol is already a well-rounded weapon with a solid identity. Previously, the major drawback of this weapon was the inconsistency of its 3-shot kill on Strikers, but the recent patches have already addressed this. However, its power level is just slightly low for our intended balance-point, so we've increased its damage to slightly improve its breakpoints across the board.*
+
+-   Damage: 4.64 -> 5.01
+-   Stagger multiplier: 1.5 -> 1.4
 
 ### Burst Pistol
 
