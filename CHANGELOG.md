@@ -224,6 +224,11 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 4.64 -> 5.01
 -   Stagger multiplier: 1.5 -> 1.4
 
+#### Burst Pistol
+-   Damage: 3.38 -> 4.01
+-   Precision multiplier: 0.9 -> 0.8
+-   Bullet cost: 1.9 -> 2.1
+
 #### HEL Autopistol
 -   Damage: 1.21 -> 1.5
 -   Bullet cost: 0.9 -> 1.0

@@ -45,12 +45,12 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 *Burst Pistol seems to have entered the game in a fairly underwhelming state. We've buffed its damage to make its breakpoints a bit more forgiving, and lowered its burst delay to make it more spammable. We've slightly lowered its ammo to compensate.*
 
--   Damage: 3.2 -> 3.38
--   Precision Multiplier: 0.8667 -> 0.9
--   Bullet cost: 1.8 -> 1.9
-    -   Rounds/refill: 50.0 -> 47.37
-    -   Starting ammo: 166.67 -> 157.89
-    -   Maximum ammo (excluding clip): 255 -> 242
+-   Damage: 3.2 -> 4.01
+-   Precision Multiplier: 0.8667 -> 0.8
+-   Bullet cost: 1.8 -> 2.1
+    -   Rounds/refill: 50.0 -> 42.86
+    -   Starting ammo: 166.67 -> 142.86
+    -   Maximum ammo (excluding clip): 255 -> 219
 -   Burst delay: 0.2 -> 0.12
 
 ### HEL Revolver
