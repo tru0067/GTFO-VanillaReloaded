@@ -215,10 +215,10 @@ Moved to Special Weapon category.
 
 -   Damage: 2.45 -> 3.25
 -   Clipsize: 33 -> 45
--   Bullet cost: 1.5 -> 1.15
-    -   Rounds/refill: 60.00 -> 78.26
-    -   Starting ammo: 200.00 -> 130.43
-    -   Maximum ammo (excluding clip): 306 -> 200
+-   Bullet cost: 1.5 -> 1.00
+    -   Rounds/refill: 60.00 -> 90.0
+    -   Starting ammo: 200.00 -> 150.0
+    -   Maximum ammo (excluding clip): 306 -> 275
 -   Shot delay: 0.078 -> 0.054
 
 ### Shotgun

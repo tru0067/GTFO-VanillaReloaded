@@ -249,7 +249,7 @@ Despite the significant buffs, autos were found to be performing worse than expe
 
 #### Heavy SMG
 -   Clip size: 44 -> 45
--   Bullet cost: 1.2 -> 1.15
+-   Bullet cost: 1.2 -> 1.0
 
 #### Choke Mod Shotgun
 -   Cone size: 2 -> 1
