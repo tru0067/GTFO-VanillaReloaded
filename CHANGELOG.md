@@ -220,6 +220,9 @@ Added ExtraWeaponCustomization, PierceBugFix and DMRReloadFix as dependencies.
 ### v1.3.0
 Despite the significant buffs, autos were found to be performing worse than expected. We've had a second look at every weapon, most autos have received further buffs and some other weapons have received minor changes.
 
+#### Bat
+-   Light damage: 3.5 -> 4.0
+
 #### Pistol
 -   Damage: 4.64 -> 5.01
 -   Stagger multiplier: 1.5 -> 1.4
