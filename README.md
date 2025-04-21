@@ -231,7 +231,11 @@ Moved to Special Weapon category.
 
 ### Shotgun
 
-*Shotgun has always had the stats to make it an extremely effective weapon, and the recent patch has given it enough ammo to shine in most situations. No changes.*
+*Shotgun has decent stats which already make it an effective weapon. We've slightly increased its damage and stagger specifically to improve its reliability against Chargers and Giants while decreasing its precision multiplier to keep its other match-ups mostly the same.*
+
+-   Damage: 30.1 -> 35.1
+-   Stagger multiplier: 1.0 -> 1.5
+-   Precision multiplier: 1.0 -> 0.9
 
 ### Combat Shotgun
 

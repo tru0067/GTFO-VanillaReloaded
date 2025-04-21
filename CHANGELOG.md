@@ -270,6 +270,11 @@ Despite the significant buffs, autos were found to be performing worse than expe
 #### Short Rifle
 -   Damage: 6.91 -> 6.51
 
+#### Shotgun
+-   Damage: 30.1 -> 35.1
+-   Stagger multiplier: 1.0 -> 1.5
+-   Precision multiplier: 1.0 -> 0.9
+
 #### Choke Mod Shotgun
 -   Cone size: 2 -> 1
 
