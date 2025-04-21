@@ -257,6 +257,11 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 5.66 -> 6.01
 -   Reload cancel: 1.41 -> 1.06
 
+#### Sawed-Off Shotgun
+-   Stagger multiplier: 2.0 -> 1.5
+-   Shotgun cone size: 2 -> 3
+-   Shotgun spread: 2 -> 3
+
 #### Heavy Assault Rifle
 -   Damage: 5.01 -> 5.4
 -   Bullet cost: 1.66 -> 1.53

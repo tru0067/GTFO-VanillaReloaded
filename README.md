@@ -161,9 +161,12 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Sawed-Off Shotgun
 
-*The combination of reduced reload and a clipsize of 4 which the last patches gave Sawed-Off has resulted in the weapon being incredibly potent, having insane burst damage as well as a respectable uptime. We've reduced its clipsize back down to 3 to give the weapon more notable weaknesses.*
+*The combination of reduced reload and a clipsize of 4 which the last patches gave Sawed-Off has resulted in the weapon being incredibly potent, having insane burst damage as well as a respectable uptime. We've reduced its clipsize back down to 3 to give the weapon more notable weaknesses. We've also lowered its stagger to a more reasonable level and also increased its spread so that it is actually less accurate than its non-sawed counterpart.*
 
+-   Stagger multiplier: 2.0 -> 1.5
 -   Clipsize: 4 -> 3
+-   Shotgun cone size: 2 -> 3
+-   Shotgun spread: 2 -> 3
 
 ### HEL Shotgun
 
