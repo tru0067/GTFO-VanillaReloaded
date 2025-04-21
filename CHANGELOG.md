@@ -267,6 +267,9 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Clip size: 44 -> 45
 -   Bullet cost: 1.2 -> 1.0
 
+#### Short Rifle
+-   Damage: 6.91 -> 6.51
+
 #### Choke Mod Shotgun
 -   Cone size: 2 -> 1
 

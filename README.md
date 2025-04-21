@@ -202,9 +202,9 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Short Rifle
 
-*Short Rifle is perhaps one of the worst weapons the game has ever seen. Despite having good efficiency, its damage and breakpoints are so incredibly underwhelming that it struggles to be effective. We've substantially increased its damage and tinkered with its range to give it some new breakpoints; it will now be able to triple bodyshot Strikers out to ~7.5m and headshot + bodyshot them out to ~12.5m. This should hopefully make the Short Rifle much more effective at short ranges, and also push its old effective range out substantially. We've adjusted its bullet cost and clip size to account for its new stats, and opted to only slightly increase its stagger multiplier, in order to ensure that a single bodyshot continues to fail to stagger Strikers.*
+*Short Rifle is perhaps one of the worst weapons the game has ever seen. Despite having good efficiency, its damage and breakpoints are so incredibly underwhelming that it struggles to be effective. We've substantially increased its damage and tinkered with its range to give it a much stronger new breakpoint; it will now be able to headshot + bodyshot Strikers out to ~10m. This should hopefully make the Short Rifle much more effective at short ranges and also pushes its old effective range out substantially. We've adjusted its bullet cost and clip size to account for its new stats, and opted to only slightly increase its stagger multiplier, in order to ensure that a single bodyshot continues to fail to stagger Strikers.*
 
--   Damage: 4.81 -> 6.91
+-   Damage: 4.81 -> 6.51
 -   Falloff start: 8 -> 6
 -   Falloff end: 58 -> 50
 -   Stagger multiplier: 0.5 -> 0.7
