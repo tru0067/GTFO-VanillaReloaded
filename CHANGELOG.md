@@ -268,12 +268,12 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Recoil minimum power: 0.7 -> 0.625
 -   Recoil maximum power: 1.0 -> 0.75
 
+#### Short Rifle
+-   Damage: 6.91 -> 6.51
+
 #### Heavy SMG
 -   Clip size: 44 -> 45
 -   Bullet cost: 1.2 -> 1.0
-
-#### Short Rifle
--   Damage: 6.91 -> 6.51
 
 #### Shotgun
 -   Damage: 30.1 -> 35.1
