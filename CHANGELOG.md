@@ -290,6 +290,10 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 30.1 -> 31.7
 -   Falloff start: 8 -> 5
 
+#### Precision Rifle
+-   Falloff start: 30 -> 40
+-   Falloff end: 70 -> 90
+
 #### Sniper
 -   Bullet cost: 22.0 -> 20.0
 -   Reload cancel: 2.90 -> 2.41
