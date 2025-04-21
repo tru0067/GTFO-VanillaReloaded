@@ -406,10 +406,6 @@ Moved to Special Weapon category.
 -   Bio-symbiosis bullet cost multiplier: 0.5 -> 0.8
 -   Bio-symbiosis shot delay multiplier: 0.6 -> 0.9
 
-## Miscellaneous Changes
-
--   Sledgehammer, Knife and Bat have had `CanHitMultipleEnemies` set to `true`. This allows them to double hit enemies with the hitscan check and first hitbox like Spear can.
-
 ## Acknowledgements
 
 A massive thanks to Jish, for inspiring me to start this project and getting me through the early stages. Thanks to Rayalot72, Chill Dude, D4RKEVA, BLACK_DRAGON and Beth for their insight on game balance. And thanks to my dog Petra, for being a lil cutie.
