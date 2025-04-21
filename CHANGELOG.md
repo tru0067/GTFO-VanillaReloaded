@@ -248,6 +248,11 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Precision multiplier: 0.9 -> 0.89
 -   Bullet cost: 3.6 -> 3.8
 
+#### Burst Rifle
+-   Damage: 2.71 -> 3.31
+-   Bullet cost: 1.65 -> 1.85
+-   Shot delay: 0.04 -> 0.07
+
 #### Rifle
 -   Damage: 5.66 -> 6.01
 -   Reload cancel: 1.41 -> 1.06

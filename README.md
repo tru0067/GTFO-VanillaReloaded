@@ -139,7 +139,14 @@ Breakpoints affected: Spear will now be able to kill a Striker with a fully char
 
 ### Burst Rifle
 
-*We've found that the Burst Rifle is already a fairly well-rounded weapon, and fits in nicely with the rest of our changes.*
+*The vanilla Burst Rifle is just sort of "alright". We've decided to change up its feel quite significantly, slowing down its fire-rate so that it feels much more distinct from Carbine, but increasing its ammo to compensate. Since it is now able to one-burst much more consistently (and can even one-burst on host) we've slightly lowered its ammo to compensate.*
+
+-   Damage: 2.71 -> 3.31
+-   Bullet cost: 1.65 -> 1.85
+    -   Rounds/refill: 54.55 -> 48.65
+    -   Starting ammo: 181.82 -> 162.16
+    -   Maximum ammo (excluding clip): 278 -> 248
+-   Shot delay: 0.04 -> 0.07
 
 ### Rifle
 
