@@ -240,6 +240,9 @@ Despite the significant buffs, autos were found to be performing worse than expe
 -   Damage: 2.15 -> 2.45
 -   Precision multiplier: 0.8 -> 0.7413
 
+#### PDW
+-   Precision multiplier: 0.7413 -> 0.9
+
 #### Double Tap Rifle
 -   Damage: 5.51 -> 6.67
 -   Precision multiplier: 0.9 -> 0.89
